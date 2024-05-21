@@ -5,7 +5,8 @@ from imdb_class_parser import MovieInfoIMDb
 
 folder_to_save = '/'
 
-test_df = pd.read_csv("/content/film_test.csv")
+url = 'https://github.com/cosmicherooo/Moscow_film_programming_1946_1955/blob/main/imdb_parsing/film_test.csv'
+test_df = pd.read_csv(url, index_col=0)
 
 test_df["Directors"] = None
 test_df["Writers"] = None
@@ -38,3 +39,4 @@ for i in range(0, test_df.shape[0]):
   value = random.randint(0, 10)
   time.sleep(value)
 
+test_df.to_csv('enriched.csv', index=False)  
