@@ -1,0 +1,17 @@
+	
+cinema (ID)	Unique identifier for cinema*
+cinema (source)cinema (source) cinema (transliteration)	The title of a cinema in the original language (Russian) 
+cinema (transliteration)	The transliterated version of cinema (source) according to the Library of Congress system
+city, country	In all the cases, it is: Moscow, SU 
+year	The particular year (from 1946 to 1955)
+address	The cinema’s address according to the archival source but transliterated based on the Library of Congress system
+lat,long	The geographical coordinates (based on Google Maps)
+run	The cinema’s run. In the case of an empty field, the cinema falls under the category of “specialized” and does not have any run at all
+seats	The number of seats in the cinema in a particular year
+affiliation	The institution managing the cinema in English
+comments	Additional information about the cinema (type, venues, etc.)
+source	The source of information about the cinema for  a particular year. In the case of the unavailability of information, the record refers to the data of previous or upcoming years.
+reconstruction	1 if any information for this year was reconstructed, 0 if the data is based on the source for a particular year
+	
+	
+* Since the cinema's data sometimes changes from year to year, the same cinema might possess different IDs in different years. To identify and track a cinema's dynamic over time, we also recommend paying close attention to its title, which is fixed in "cinema (source)" and "cinema (transliteration)".	

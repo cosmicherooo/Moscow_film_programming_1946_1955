@@ -1,0 +1,10 @@
+	
+cinema (ID)	Unique identifier referring to the cinemas' dataset
+first day of screening	The first day of the film screening in dd/mm/yyyy format
+screening days	The total number of screening days
+title (source)	The title of the film, according to the source 
+title (transliteration)	The transliterated version of title (source) according to the Library of Congress system
+title (original)	Original title of the film restored according to IMDb, catalogs or other sources
+IMDb identifier	The ID number that refers to this film on the IMDb. In the case of unavailability of an IMDb ID, the field is marked ‘N/A’
+country of origin	The code of the country of production (used ISO 3166-1 alpha-2 two-letter system). In the case of co-productions, multiple countries are listed
+source	Source of the information on film programming (Vecherniaia Moskva or the Museum of Moscow)
