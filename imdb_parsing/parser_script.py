@@ -240,6 +240,29 @@ unique_persons.to_csv('Person.csv', index=False)
 persons_collapsed_merge_df.to_csv('person_fo_film.csv', index=False)
 
 
+# преодобрабатываем, что у нас пойдет в таблицу Film
+
+# избаваляемся от лишних колонок в unique_title
+df_to_merge_films = df_after_parsing[['film_id',
+                                      'title (original)',
+                                      'Year of Production',
+                                      'Duration (min)',
+                                      'IMDB id']]
+
+# превращаем каждое значение года производтва в тип переменной int
+for i in range(0, df_to_merge_films.shape[0]):
+  if df_to_merge_films['Year of Production'][i] is not None:
+    df_to_merge_films['Year of Production'][i] = int(df_to_merge_films['Year of Production'][i][0])
+
+for i in range(0, df_to_merge_films.shape[0]):
+  if df_to_merge_films['Duration (min)'][i] == 0:
+    df_to_merge_films['Duration (min)'][i] = None
+
+df_to_merge_films
+# сохраняем в csv-файл
+df_to_merge_films.to_csv('Film.csv', index=False)
+
+
 
 
 
