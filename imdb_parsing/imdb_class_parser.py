@@ -1,8 +1,12 @@
 !pip install parsel
-import os 
+import os
 from parsel import Selector
 import re
 import urllib.request as urllib2
+
+import pandas as pd
+import random
+import time
 
 class MovieInfoIMDb:
 
@@ -12,25 +16,38 @@ class MovieInfoIMDb:
 
     self.db_movie_id = db_movie_id
     self.imdb_url = imdb_url
-    self.actors_names = 0
-    self.writers_names = 0
-    self.directors_names = 0
-    self.country_of_origin = 0
-    self.duration = 0
-    self.sel_obj = 0
-    self.str_html_obj = 0
+    self.actors_names = None
+    self.writers_names = None
+    self.directors_names = None
+    self.country_of_origin = None
+    self.duration = None
+    self.year_of_production = None
+
+    self.sel_obj = None
+    self.str_html_obj = None
+
 
 
 
   def reading_html(self):
 
     url_to_read = self.imdb_url
-    req = urllib2.Request(url_to_read, None, {'User-agent' : 'Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5'})
-    response = str(urllib2.urlopen(req).read())
-    sel = Selector(response)
 
-    self.sel_obj = sel
-    self.str_html_obj = response
+    try:
+
+      req = urllib2.Request(url_to_read, None, {'User-agent' : 'Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5'})
+      response = str(urllib2.urlopen(req).read().decode('utf-8'))
+      sel = Selector(response)
+
+      self.sel_obj = sel
+      self.str_html_obj = response
+
+      print(f'Your URL: {url_to_read}, has been succesfully processed!')
+
+    except:
+      print(f'Your URL: {url_to_read}, caoont be read!')
+
+
 
   def writing_html_into_txt(self, save_path):
 
@@ -176,6 +193,30 @@ class MovieInfoIMDb:
 
     else:
       print('You need to convert your data type to str-type!')
+
+
+  def add_year_of_production(self):
+
+    if type(self.str_html_obj) == str:
+
+      try:
+        year_produced = re.findall('ref_=tt_ov_rdat">(.*?)</a>', self.str_html_obj)
+
+      except:
+        print('Cannot find year of production in HTML-file!')
+
+
+      try:
+        self.year_of_production  = year_produced
+
+      except:
+        print('Year-of-production-object cannot be added to a class properly!')
+
+    else:
+      print('You need to convert your data type to str-type!')
+
+
+
 
 
 
