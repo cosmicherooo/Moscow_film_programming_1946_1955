@@ -209,3 +209,6 @@ class ElectroNekrasokaParser:
     self.list_of_issues_images = all_names_final
 
     return all_names_final
+
+
+    return all_names_final
