@@ -7,7 +7,7 @@ from imdb_class_parser import MovieInfoIMDb
 
 # загружаем датасет
 
-film_programming_df = pd.read_csv("/content/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
+film_programming_df = pd.read_csv("Film_rpogramming_initial_dbs/Film Programming, 1946–1955.tsv", sep='\t')
 
 # сначала нам нужны только колонки с оригинальным названием фильма "title (original)" и "IMDB id"
 # предварительно нужно очистить неправильно конвертированные данные после выгрузки csv-файла из Google Sheets
