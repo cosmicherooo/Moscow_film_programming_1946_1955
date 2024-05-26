@@ -1,7 +1,7 @@
 # создаем таблицу со странами и соединительную таблицу между странами и фильмами
 # преобразуем изначальный датасет, где уже были указания на место произвоства фильмов
-film_programming_df = pd.read_csv("/content/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
-df_to_merge_films = pd.read_csv("/content/Film.csv")
+film_programming_df = pd.read_csv("imdb_parsing/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
+df_to_merge_films = pd.read_csv("imdb_parsing/Film.csv")
 get_countries = film_programming_df[['title (original)', 'country of origin']]
 # удаляем дубликаты
 get_countries = get_countries.drop_duplicates()
