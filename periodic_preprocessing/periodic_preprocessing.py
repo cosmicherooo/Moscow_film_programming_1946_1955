@@ -1,7 +1,7 @@
 # Дальнейшая предобрабокта, после которой появился столбец is_programme, где отмечено, какие номера газет содержат афиши 
 # 1 -- содержат, 0 -- не содежрат 
 
-all_issues_VM_1946_1955_df = pd.read_csv('/content/is_porg_periodic_ref.csv')
+all_issues_VM_1946_1955_df = pd.read_csv('periodic_preprocessing/is_porg_periodic_ref.csv')
 
 # присваиваем каждому выпуску газеты уникальный идентификатор
 
