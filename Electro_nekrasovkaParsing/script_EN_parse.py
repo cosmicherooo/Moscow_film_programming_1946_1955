@@ -4,7 +4,7 @@ VM_1946_1955 = ElectroNekrasokaParser('Vecherniya Moscva', '1', list(range(1946,
 
 all_issues_VM = VM_1946_1955.links_to_images(page_num = '4')
 
-all_issues_VM_1946_1955_df = pd.DataFrame(all_issues_VM, columns = ['issue', 'link_to_page', 'link_to_image_with_programme'])
+all_issues_VM_1946_1955_df = pd.DataFrame(all_issues_VM, columns = ['periodic_issue', 'link_to_page', 'link_to_image_with_programme'])
 
 year = all_issues_VM_1946_1955_df['issue'].str.findall(r', ([0-9]{4}),')
 date = all_issues_VM_1946_1955_df['issue'].str.findall(r', ([0-9]{1,2} [А-Яа-я]{1,})')
@@ -34,7 +34,11 @@ dict_month = {'января': '1',
 all_issues_VM_1946_1955_df = all_issues_VM_1946_1955_df.replace({"month": dict_month})
 all_issues_VM_1946_1955_df["year_day"] = all_issues_VM_1946_1955_df["year"] + '/' + all_issues_VM_1946_1955_df["month"] + '/' + all_issues_VM_1946_1955_df["day"]
 all_issues_VM_1946_1955_df.drop(['date', 'year', 'day', 'month'], axis=1, inplace=True)
+all_issues_VM_1946_1955_df = all_issues_VM_1946_1955_df.rename(columns={'issue': 'periodic_issue',
+                                                                        'link_to_page': 'periodic_url',
+                                                                        'link_to_image_with_programme': 'periodic_url_programme',
+                                                                        'year_day': 'periodic_date'})
 
-# сохраняем датасет, затем к нему будут присоединена вручную колонка о том, была ли в газете опублкиована киноафиша
-# 1 - была, 0 - не была
-all_issues_VM_1946_1955_df.to_csv('all_issues_VM_1946_1955_df.csv', sep=',', index=False, encoding='utf-8')
+
+# сохраняем эту таблицу, после предобработки вручную, где будет размечены номера, где содержаться афиши, будет проведена дальнейшая предобработка
+all_issues_VM_1946_1955_df.to_csv('pre_periodic_ref.csv', sep=',', index=False, encoding='utf-8')
