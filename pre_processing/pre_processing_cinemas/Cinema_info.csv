@@ -23,7 +23,6 @@ cid0000021,1946,2,406,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.6150127
 cid0000022,1946,1,707,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,"The data on the cinema's address and capacity is based on the 1947 record, the data on the cinema's run is based on the 1948 record.",,True,cin0000022,ins0000002,ctr000001
 cid0000023,1946,1,574,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,"The data on the cinema's address and capacity is based on the 1947 record, the data on the cinema's run is based on the 1948 record.",,True,cin0000023,ins0000002,ctr000001
 cid0000024,1946,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000024,ins0000002,ctr000001
-cid0000024,1946,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000050,ins0000002,ctr000001
 cid0000025,1946,1,1231,Semenovskaia pl.,Moscow,55.78157,37.717869,"The data on the cinema's address and capacity is based on the 1947 record, the data on the cinema's run is based on the 1948 record.",,True,cin0000025,ins0000002,ctr000001
 cid0000026,1946,2,500,Baumansiĭ district,Moscow,55.766581,37.659918,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000026,ins0000002,ctr000001
 cid0000027,1946,1,689,Sverdlovskiĭ district,Moscow,55.77080510877408,37.60954337553044,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000027,ins0000002,ctr000001
@@ -65,7 +64,6 @@ cid0000062,1947,2,406,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.6150127
 cid0000063,1947,1,707,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,Tha data on the cinema's run is based on the 1948 record. The data on the cinema's capacity and address is based on TCGAM. F. R-265. Op. 1. D. 14. L. 73. ,,True,cin0000022,ins0000002,ctr000001
 cid0000064,1947,1,574,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,Tha data on the cinema's run is based on the 1948 record. The data on the cinema's capacity and address is based on TCGAM. F. R-265. Op. 1. D. 14. L. 73. ,,True,cin0000023,ins0000002,ctr000001
 cid0000065,1947,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000024,ins0000002,ctr000001
-cid0000065,1947,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000050,ins0000002,ctr000001
 cid0000066,1947,1,1231,Semenovskaia pl.,Moscow,55.78157,37.717869,Tha data on the cinema's run is based on the 1948 record. The data on the cinema's capacity and address is based on TCGAM. F. R-265. Op. 1. D. 14. L. 73. ,,True,cin0000025,ins0000002,ctr000001
 cid0000067,1947,1,689,Sverdlovskiĭ district,Moscow,55.77080510877408,37.60954337553044,All the data is based on the 1948 record.,"seasonal cinema, open-air",True,cin0000027,ins0000002,ctr000001
 cid0000068,1947,1,346,"Nizh. Maslovka,1/2",Moscow,55.792065,37.575222,The data on the cinema's run is based on the 1948 record. The data on the cinema's capacity and address is based on TCGAM. F. R-265. Op. 1. D. 14. L. 73. ,,True,cin0000043,ins0000002,ctr000001
@@ -113,8 +111,7 @@ cid0000109,1948,2,406,Dzerzhinskiĭ district,Moscow,55.79929647698802,37.6150127
 cid0000110,1948,1,707,Sokol'nicheskiĭ district,Moscow,55.795618,37.708499,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,,False,cin0000022,ins0000002,ctr000001
 cid0000111,1948,1,578,Shcherbakovkiĭ district,Moscow,55.777151,37.638043,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,,False,cin0000023,ins0000002,ctr000001
 cid0000112,1948,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,"seasonal cinema, open-air",False,cin0000024,ins0000002,ctr000001
-cid0000112,1948,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,"seasonal cinema, open-air",False,cin0000050,ins0000002,ctr000001
-cid0000113,1948,1,649,Leningradskiĭ district,Moscow,,,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,,False,cin0000051,ins0000002,ctr000001
+cid0000113,1948,1,649,Leningradskiĭ district,Moscow,,,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,,False,cin0000050,ins0000002,ctr000001
 cid0000114,1948,1,1270,Stalinskiĭ district,Moscow,55.78157,37.717869,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,,False,cin0000025,ins0000002,ctr000001
 cid0000115,1948,2,500,Baumansiĭ district,Moscow,55.766581,37.659918,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,"seasonal cinema, open-air",False,cin0000026,ins0000002,ctr000001
 cid0000116,1948,1,689,Sverdlovskiĭ district,Moscow,55.77080510877408,37.60954337553044,TCGAM. F. R-265. Op. 1. D. 17. L. 84.,"seasonal cinema, open-air",False,cin0000027,ins0000002,ctr000001
@@ -143,10 +140,10 @@ cid0000138,1949,3,338,Krasnogvardeĭskiĭ district,Moscow,55.759157,37.645708,TC
 cid0000139,1949,2,732,Sovetskiĭ district,Moscow,55.76749154922368,37.59480267864476,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000046,ins0000002,ctr000001
 cid0000140,1949,2,273,Kievskiĭ district,Moscow,55.74806146601852,37.58749976700312,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000007,ins0000002,ctr000001
 cid0000141,1949,2,451,Krasnopresnenskiĭ district,Moscow,55.76064794396243,37.579330860186516,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000008,ins0000002,ctr000001
-cid0000142,1949,2,440,Shcherbakovkiĭ district,Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000052,ins0000002,ctr000001
+cid0000142,1949,2,440,Shcherbakovkiĭ district,Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000051,ins0000002,ctr000001
 cid0000143,1949,1,578,Leningradskiĭ district,Moscow,55.79618060753062,37.555168887144774,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000010,ins0000002,ctr000001
 cid0000144,1949,3,216,Shcherbakovkiĭ district,Moscow,55.809621,37.634416,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000011,ins0000002,ctr000001
-cid0000145,1949,2,633,Zhdanovskiĭ district,Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,former Taganskiĭ PKiO,False,cin0000053,ins0000002,ctr000001
+cid0000145,1949,2,633,Zhdanovskiĭ district,Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,former Taganskiĭ PKiO,False,cin0000052,ins0000002,ctr000001
 cid0000146,1949,3,263,Moskvoretskiĭ district,Moscow,55.745524,37.626412,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000012,ins0000002,ctr000001
 cid0000147,1949,2,815,Stalinskiĭ district,Moscow,55.77299499453838,37.76126878218039,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000047,ins0000002,ctr000001
 cid0000148,1949,2,461,Baumansiĭ district,Moscow,55.77323586956071,37.67796359405088,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000013,ins0000002,ctr000001
@@ -154,8 +151,7 @@ cid0000149,1949,3,210,Timiriazevskiĭ district,Moscow,55.81168032493068,37.57701
 cid0000150,1949,3,223,Kievskiĭ district,Moscow,55.74452,37.579277,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87,,False,cin0000014,ins0000002,ctr000001
 cid0000151,1949,,151,Sverdlovskiĭ district,Moscow,55.757521,37.616369,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,newsreel,False,cin0000049,ins0000002,ctr000001
 cid0000152,1949,2,480,Krasnopresnenskiĭ district,Moscow,55.757288,37.599238,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"specialized, re-run cinema",False,cin0000015,ins0000002,ctr000001
-cid0000153,1949,3,168,Krasnopresnenskiĭ district,Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,opened since December 1949,False,cin0000054,ins0000002,ctr000001
-cid0000153,1949,3,168,Krasnopresnenskiĭ district,Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,opened since December 1949,False,cin0000064,ins0000002,ctr000001
+cid0000153,1949,3,168,Krasnopresnenskiĭ district,Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,opened since December 1949,False,cin0000053,ins0000002,ctr000001
 cid0000154,1949,2,419,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000016,ins0000002,ctr000001
 cid0000155,1949,2,362,Oktiabr'skiĭ district,Moscow,55.79283816599655,37.59796976091867,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000017,ins0000002,ctr000001
 cid0000156,1949,2,444,Sokol'nicheskiĭ district,Moscow,55.785928,37.675828,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000018,ins0000002,ctr000001
@@ -165,12 +161,11 @@ cid0000159,1949,,280,Sovetskiĭ district,Moscow,55.762386822142076,37.6021698623
 cid0000160,1949,2,436,Dzerzhinskiĭ district,Moscow,55.79929647698802,37.61501275297922,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000021,ins0000002,ctr000001
 cid0000161,1949,1,797,Sokol'nicheskiĭ district,Moscow,55.795618,37.708499,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000022,ins0000002,ctr000001
 cid0000162,1949,1,578,Shcherbakovkiĭ district,Moscow,55.777151,37.638043,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000023,ins0000002,ctr000001
-cid0000163,1949,3,678,Frunzenskiĭ district,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"opened since July 1949Seasonal cinema, open-air",False,cin0000055,ins0000002,ctr000001
-cid0000164,1949,3,588,Timiriazevskiĭ district,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,opened since September 1949,False,cin0000056,ins0000002,ctr000001
+cid0000163,1949,3,678,Frunzenskiĭ district,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"opened since July 1949Seasonal cinema, open-air",False,cin0000054,ins0000002,ctr000001
+cid0000164,1949,3,588,Timiriazevskiĭ district,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,opened since September 1949,False,cin0000055,ins0000002,ctr000001
 cid0000165,1949,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000024,ins0000002,ctr000001
-cid0000165,1949,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000050,ins0000002,ctr000001
-cid0000166,1949,1,770,Leningradskiĭ district,Moscow,,,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,closed in September 1949,False,cin0000051,ins0000002,ctr000001
-cid0000167,1949,1,386,Kievskiĭ district,Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000057,ins0000002,ctr000001
+cid0000166,1949,1,770,Leningradskiĭ district,Moscow,,,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,closed in September 1949,False,cin0000050,ins0000002,ctr000001
+cid0000167,1949,1,386,Kievskiĭ district,Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000056,ins0000002,ctr000001
 cid0000168,1949,1,1318,Kuĭbyshevskiĭ district,Moscow,55.78157,37.717869,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000025,ins0000002,ctr000001
 cid0000169,1949,2,654,Sverdlovskiĭ district,Moscow,55.766581,37.659918,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,"seasonal cinema, open-air",False,cin0000026,ins0000002,ctr000001
 cid0000170,1949,1,428,Sverdlovskiĭ district,Moscow,55.77080510877408,37.60954337553044,TCGAM. F. R-265. Op. 1. D. 19. L. 85-87.,,False,cin0000027,ins0000002,ctr000001
@@ -201,17 +196,17 @@ cid0000194,1950,2,271,"Arbat, 51",Moscow,55.74806146601852,37.58749976700312,All
 cid0000195,1950,2,455,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on the 1951 record.,,True,cin0000008,ins0000002,ctr000001
 cid0000196,1950,1,560,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,All the data is based on the 1951 record.,,True,cin0000010,ins0000002,ctr000001
 cid0000197,1950,3,216,Shcherbakovkiĭ district,Moscow,55.809621,37.634416,All the data is based on the 1949 record.,,True,cin0000011,ins0000002,ctr000001
-cid0000198,1950,2,633,Zhdanovskiĭ district,Moscow,55.739207,37.667761,All the data is based on the 1949 record.,,True,cin0000053,ins0000002,ctr000001
+cid0000198,1950,2,633,Zhdanovskiĭ district,Moscow,55.739207,37.667761,All the data is based on the 1949 record.,,True,cin0000052,ins0000002,ctr000001
 cid0000199,1950,3,263,Moskvoretskiĭ district,Moscow,55.745524,37.626412,All the data is based on the 1949 record.,,True,cin0000012,ins0000002,ctr000001
 cid0000200,1950,2,815,Stalinskiĭ district,Moscow,55.77299499453838,37.76126878218039,All the data is based on the 1949 record.,"seasonal cinema, open-air",True,cin0000047,ins0000002,ctr000001
-cid0000201,1950,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,Data on the cinema's run and location is based on the 1953 record. Tha data on the cinema's capacity and opening date is based on archival source: TCGAM. F. R-265. Op. 1. D. 21. L. 5.,opened since 18 March 1950,True,cin0000058,ins0000002,ctr000001
+cid0000201,1950,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,Data on the cinema's run and location is based on the 1953 record. Tha data on the cinema's capacity and opening date is based on archival source: TCGAM. F. R-265. Op. 1. D. 21. L. 5.,opened since 18 March 1950,True,cin0000057,ins0000002,ctr000001
 cid0000202,1950,2,461,Baumansiĭ district,Moscow,55.77323586956071,37.67796359405088,All the data is based on the 1949 record.,,True,cin0000013,ins0000002,ctr000001
 cid0000203,1950,3,210,Timiriazevskiĭ district,Moscow,55.81168032493068,37.57701676520979,All the data is based on the 1949 record.,,True,cin0000048,ins0000002,ctr000001
 cid0000204,1950,3,325,Kievskiĭ district,Moscow,55.74452,37.579277,The data on the cinema's run and address is based on the 1949 record. The data on the cinema's capacity is based on the 1951 record.,,True,cin0000014,ins0000002,ctr000001
 cid0000205,1950,,151,Sverdlovskiĭ district,Moscow,55.757521,37.616369,All the data is based on the 1949 record.,,True,cin0000049,ins0000002,ctr000001
 cid0000206,1950,2,480,Krasnopresnenskiĭ district,Moscow,55.757288,37.599238,All the data is based on the 1949 record.,"specialized, re-run cinema",True,cin0000015,ins0000002,ctr000001
 cid0000207,1950,2,419,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,All the data is based on the 1949 record.,,True,cin0000016,ins0000002,ctr000001
-cid0000208,1950,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,All the data is based on the 1953 record.,2 venues,True,cin0000059,ins0000002,ctr000001
+cid0000208,1950,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,All the data is based on the 1953 record.,2 venues,True,cin0000058,ins0000002,ctr000001
 cid0000209,1950,2,362,Oktiabr'skiĭ district,Moscow,55.79283816599655,37.59796976091867,All the data is based on the 1949 record.,,True,cin0000017,ins0000002,ctr000001
 cid0000210,1950,2,444,Sokol'nicheskiĭ district,Moscow,55.785928,37.675828,All the data is based on the 1949 record. ,,True,cin0000018,ins0000002,ctr000001
 cid0000211,1950,1,800,"Pl. Maiakovskogo, 1",Moscow,55.769671725991564,37.59471331716628,The data on the cinema's run is based on the 1953 record. The data on the cinema's address and capacity is based on the 1951 record. ,,True,cin0000002,ins0000002,ctr000001
@@ -221,8 +216,7 @@ cid0000214,1950,2,436,Dzerzhinskiĭ district,Moscow,55.79929647698802,37.6150127
 cid0000215,1950,1,797,Sokol'nicheskiĭ district,Moscow,55.795618,37.708499,All the data is based on the 1949 record.,,True,cin0000022,ins0000002,ctr000001
 cid0000216,1950,1,578,Shcherbakovkiĭ district,Moscow,55.777151,37.638043,All the data is based on the 1949 record.,,True,cin0000023,ins0000002,ctr000001
 cid0000217,1950,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1949 record.,"seasonal cinema, open-air",True,cin0000024,ins0000002,ctr000001
-cid0000217,1950,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1949 record.,"seasonal cinema, open-air",True,cin0000050,ins0000002,ctr000001
-cid0000218,1950,1,386,Kievskiĭ district,Moscow,55.717432889661616,37.4076118136208,All the data is based on the 1949 record.,,True,cin0000057,ins0000002,ctr000001
+cid0000218,1950,1,386,Kievskiĭ district,Moscow,55.717432889661616,37.4076118136208,All the data is based on the 1949 record.,,True,cin0000056,ins0000002,ctr000001
 cid0000219,1950,1,1318,Kuĭbyshevskiĭ district,Moscow,55.78157,37.717869,All the data is based on the 1949 record. ,,True,cin0000025,ins0000002,ctr000001
 cid0000220,1950,1,641,Oktiabr'skiĭ district,Moscow,55.792065,37.575222,All the data is based on the 1949 record.,,True,cin0000043,ins0000002,ctr000001
 cid0000221,1950,2,430,Sovetskiĭ district,Moscow,55.771020990551925,37.582989154099984,All the data is based on the 1949 record. ,,True,cin0000028,ins0000002,ctr000001
@@ -251,18 +245,17 @@ cid0000243,1951,2,271,"Arbat, 51",Moscow,55.74806146601852,37.58749976700312,The
 cid0000244,1951,2,455,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000008,ins0000002,ctr000001
 cid0000245,1951,1,560,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000010,ins0000002,ctr000001
 cid0000246,1951,3,216,Mariinskaia ul. 23,Moscow,55.809621,37.634416,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000011,ins0000002,ctr000001
-cid0000247,1951,2,596,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000053,ins0000002,ctr000001
+cid0000247,1951,2,596,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000052,ins0000002,ctr000001
 cid0000248,1951,3,262,Piatnitskaia ul.,Moscow,55.745524,37.626412,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000012,ins0000002,ctr000001
-cid0000249,1951,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,The data on the cinema's run is based on the 1953 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000058,ins0000002,ctr000001
+cid0000249,1951,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,The data on the cinema's run is based on the 1953 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000057,ins0000002,ctr000001
 cid0000250,1951,2,455,"Spartakovskaia, 21",Moscow,55.77323586956071,37.67796359405088,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000013,ins0000002,ctr000001
 cid0000251,1951,3,210,"Dmitrovskoe shosse, 3а",Moscow,55.81168032493068,37.57701676520979,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000048,ins0000002,ctr000001
 cid0000252,1951,3,325,"Pliushchikha, 11",Moscow,55.74452,37.579277,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000014,ins0000002,ctr000001
 cid0000253,1951,,151,"Okhotnyĭ riad, 6",Moscow,55.757521,37.616369,TCGAM. F. R-265. Op. 1. D. 23. L. 65.,newsreel,False,cin0000049,ins0000002,ctr000001
 cid0000254,1951,2,480,"Ul. Gertsena, 23",Moscow,55.757288,37.599238,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"specialized, re-run cinema",True,cin0000015,ins0000002,ctr000001
-cid0000255,1951,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000054,ins0000002,ctr000001
-cid0000255,1951,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000064,ins0000002,ctr000001
+cid0000255,1951,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000053,ins0000002,ctr000001
 cid0000256,1951,2,419,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000016,ins0000002,ctr000001
-cid0000257,1951,3,306,Sokol'nicheskiĭ district,Moscow,55.72449012452377,37.664848882933924,The data on the cinema's run is based on 1953 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,2 venues,True,cin0000059,ins0000002,ctr000001
+cid0000257,1951,3,306,Sokol'nicheskiĭ district,Moscow,55.72449012452377,37.664848882933924,The data on the cinema's run is based on 1953 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,2 venues,True,cin0000058,ins0000002,ctr000001
 cid0000258,1951,2,362,"Sushchevskiĭ val, 15",Moscow,55.79283816599655,37.59796976091867,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000017,ins0000002,ctr000001
 cid0000259,1951,2,444,"Rusakovskaia, 23",Moscow,55.785928,37.675828,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000018,ins0000002,ctr000001
 cid0000260,1951,1,800,"Pl. Maiakovskogo, 1",Moscow,55.769671725991564,37.59471331716628,The data on the cinema's run is based on the 1953 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000002,ins0000002,ctr000001
@@ -270,12 +263,11 @@ cid0000261,1951,2,323,"Arbat, 2",Moscow,55.752414,37.599597,The data on the cine
 cid0000262,1951,,272,"Tverskoĭ bul'var, 23",Moscow,55.762386822142076,37.602169862309225,TCGAM. F. R-265. Op. 1. D. 23. L. 65.,newsreel,False,cin0000020,ins0000002,ctr000001
 cid0000263,1951,2,436,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.61501275297922,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,for children,True,cin0000021,ins0000002,ctr000001
 cid0000264,1951,1,701,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000022,ins0000002,ctr000001
-cid0000265,1951,3,670,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000055,ins0000002,ctr000001
-cid0000266,1951,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000056,ins0000002,ctr000001
+cid0000265,1951,3,670,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000054,ins0000002,ctr000001
+cid0000266,1951,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000055,ins0000002,ctr000001
 cid0000267,1951,1,584,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000023,ins0000002,ctr000001
 cid0000268,1951,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 65.,"seasonal cinema, open-air",True,cin0000024,ins0000002,ctr000001
-cid0000268,1951,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 65.,"seasonal cinema, open-air",True,cin0000050,ins0000002,ctr000001
-cid0000269,1951,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000057,ins0000002,ctr000001
+cid0000269,1951,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,,True,cin0000056,ins0000002,ctr000001
 cid0000270,1951,1,1318,Semenovskaia pl.,Moscow,55.78157,37.717869,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,2 venues,True,cin0000025,ins0000002,ctr000001
 cid0000271,1951,2,654,"Ul. Karla Marksa or Novo-Basmannaia, 18",Moscow,55.766581,37.659918,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000026,ins0000002,ctr000001
 cid0000272,1951,1,428,"Karetnyĭ riad, 3",Moscow,55.77080510877408,37.60954337553044,The data on the cinema's run is based on the 1949 record. The data on the cinema's address and capacity is based on TCGAM. F. R-265. Op. 1. D. 23. L. 64.,"seasonal cinema, open-air",True,cin0000027,ins0000002,ctr000001
@@ -303,9 +295,9 @@ cid0000293,1952,2,732,"B. Sadovaia, 14",Moscow,55.76749154922368,37.594802678644
 cid0000294,1952,2,455,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,All the data is based on the 1953 record.,,True,cin0000008,ins0000002,ctr000001
 cid0000295,1952,1,560,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,All the data is based on the 1951 record.,,True,cin0000010,ins0000002,ctr000001
 cid0000296,1952,3,207,Mariinskaia ul. 23,Moscow,55.809621,37.634416,All the data is based on the 1953 record.,,True,cin0000011,ins0000002,ctr000001
-cid0000297,1952,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,All the data is based on the 1953 record.,,True,cin0000053,ins0000002,ctr000001
+cid0000297,1952,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,All the data is based on the 1953 record.,,True,cin0000052,ins0000002,ctr000001
 cid0000298,1952,3,242,Piatnitskaia ul.,Moscow,55.745524,37.626412,All the data is based on the 1953 record.,,True,cin0000012,ins0000002,ctr000001
-cid0000299,1952,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,All the data is based on the 1953 record.,,True,cin0000058,ins0000002,ctr000001
+cid0000299,1952,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,All the data is based on the 1953 record.,,True,cin0000057,ins0000002,ctr000001
 cid0000300,1952,2,455,"Spartakovskaia, 21",Moscow,55.77323586956071,37.67796359405088,All the data is based on the 1953 record.,,True,cin0000013,ins0000002,ctr000001
 cid0000301,1952,3,210,"Dmitrovskoe shosse, 3а",Moscow,55.81168032493068,37.57701676520979,All the data is based on the 1953 record.,,True,cin0000048,ins0000002,ctr000001
 cid0000302,1952,3,325,"Pliushchikha, 11",Moscow,55.74452,37.579277,All the data is based on the 1953 record.,,True,cin0000014,ins0000002,ctr000001
@@ -313,7 +305,7 @@ cid0000303,1952,,151,"Okhotnyĭ riad, 6",Moscow,55.757521,37.616369,All the data
 cid0000304,1952,2,440,"Ul. Gertsena, 23",Moscow,55.757288,37.599238,All the data is based on the 1953 record.,"specialized, re-run cinema",True,cin0000015,ins0000002,ctr000001
 cid0000305,1952,1,904,"Chistye prudy, 19а",Moscow,55.761781,37.645941,All the data is based on the 1953 record.,,True,cin0000004,ins0000002,ctr000001
 cid0000306,1952,2,375,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,All the data is based on the 1953 record.,,True,cin0000016,ins0000002,ctr000001
-cid0000307,1952,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,All the data is based on the 1953 record.,2 venues,True,cin0000059,ins0000002,ctr000001
+cid0000307,1952,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,All the data is based on the 1953 record.,2 venues,True,cin0000058,ins0000002,ctr000001
 cid0000308,1952,1,757,"Pl. Sverdlova, 2/4",Moscow,55.758448,37.621669,All the data is based on the 1953 record.,,True,cin0000001,ins0000002,ctr000001
 cid0000309,1952,2,362,"Sushchevskiĭ val, 15",Moscow,55.79283816599655,37.59796976091867,All the data is based on the 1953 record.,,True,cin0000017,ins0000002,ctr000001
 cid0000310,1952,2,442,"Rusakovskaia, 23",Moscow,55.785928,37.675828,All the data is based on the 1953 record.,,True,cin0000018,ins0000002,ctr000001
@@ -324,8 +316,7 @@ cid0000314,1952,2,436,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.6150127
 cid0000315,1952,1,701,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,All the data is based on the 1953 record.,,True,cin0000022,ins0000002,ctr000001
 cid0000316,1952,1,590,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,All the data is based on the 1953 record.,,True,cin0000023,ins0000002,ctr000001
 cid0000317,1952,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1953 record.,"seasonal cinema, open-air",True,cin0000024,ins0000002,ctr000001
-cid0000317,1952,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,All the data is based on the 1953 record.,"seasonal cinema, open-air",True,cin0000050,ins0000002,ctr000001
-cid0000318,1952,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,All the data is based on the 1953 record.,,True,cin0000057,ins0000002,ctr000001
+cid0000318,1952,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,All the data is based on the 1953 record.,,True,cin0000056,ins0000002,ctr000001
 cid0000319,1952,1,1313,Semenovskaia pl.,Moscow,55.78157,37.717869,All the data is based on the 1953 record.,,True,cin0000025,ins0000002,ctr000001
 cid0000320,1952,1,708,"Ul. Karla Marksa or Novo-Basmannaia, 18",Moscow,55.766581,37.659918,All the data is based on the 1953 record.,"seasonal cinema, open-air",True,cin0000026,ins0000002,ctr000001
 cid0000321,1952,1,642,"Nizh. Maslovka,1/2",Moscow,55.792065,37.575222,All the data is based on the 1953 record.,2 venues,True,cin0000043,ins0000002,ctr000001
@@ -351,23 +342,22 @@ cid0000340,1953,3,314,"Ul. Chernyshevskogo, 16",Moscow,55.759157,37.645708,TCGAM
 cid0000341,1953,2,732,"B. Sadovaia, 14",Moscow,55.76749154922368,37.59480267864476,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000046,ins0000002,ctr000001
 cid0000342,1953,2,271,"Arbat, 51",Moscow,55.74806146601852,37.58749976700312,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000007,ins0000002,ctr000001
 cid0000343,1953,2,455,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000008,ins0000002,ctr000001
-cid0000344,1953,2,652,"Ostankinskaia, 7",Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000052,ins0000002,ctr000001
+cid0000344,1953,2,652,"Ostankinskaia, 7",Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000051,ins0000002,ctr000001
 cid0000345,1953,1,560,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000010,ins0000002,ctr000001
 cid0000346,1953,3,207,Mariinskaia ul. 23,Moscow,55.809621,37.634416,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000011,ins0000002,ctr000001
-cid0000347,1953,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,,False,cin0000053,ins0000002,ctr000001
+cid0000347,1953,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,,False,cin0000052,ins0000002,ctr000001
 cid0000348,1953,3,242,Piatnitskaia ul.,Moscow,55.745524,37.626412,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000012,ins0000002,ctr000001
 cid0000349,1953,3,600,Izmaĭlovo,Moscow,55.77299499453838,37.76126878218039,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000047,ins0000002,ctr000001
-cid0000350,1953,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000058,ins0000002,ctr000001
+cid0000350,1953,1,705,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000057,ins0000002,ctr000001
 cid0000351,1953,2,455,"Spartakovskaia, 21",Moscow,55.77323586956071,37.67796359405088,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000013,ins0000002,ctr000001
 cid0000352,1953,3,210,"Dmitrovskoe shosse, 3а",Moscow,55.81168032493068,37.57701676520979,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000048,ins0000002,ctr000001
 cid0000353,1953,3,325,"Pliushchikha, 11",Moscow,55.74452,37.579277,TCGAM. F. R-265. Op. 1. D. 30. L. 57,,False,cin0000014,ins0000002,ctr000001
 cid0000354,1953,,151,"Okhotnyĭ riad, 6",Moscow,55.757521,37.616369,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,newsreel,False,cin0000049,ins0000002,ctr000001
 cid0000355,1953,2,440,"Ul. Gertsena, 23",Moscow,55.757288,37.599238,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,"specialized, re-run cinema",False,cin0000015,ins0000002,ctr000001
 cid0000356,1953,1,904,"Chistye prudy, 19а",Moscow,55.761781,37.645941,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000004,ins0000002,ctr000001
-cid0000357,1953,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000054,ins0000002,ctr000001
-cid0000357,1953,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000064,ins0000002,ctr000001
+cid0000357,1953,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000053,ins0000002,ctr000001
 cid0000358,1953,2,375,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000016,ins0000002,ctr000001
-cid0000359,1953,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,2 venues,False,cin0000059,ins0000002,ctr000001
+cid0000359,1953,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,2 venues,False,cin0000058,ins0000002,ctr000001
 cid0000360,1953,1,757,"Pl. Sverdlova, 2/4",Moscow,55.758448,37.621669,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,3 venues,False,cin0000001,ins0000002,ctr000001
 cid0000361,1953,2,362,"Sushchevskiĭ val, 15",Moscow,55.79283816599655,37.59796976091867,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000017,ins0000002,ctr000001
 cid0000362,1953,2,442,"Rusakovskaia, 23",Moscow,55.785928,37.675828,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000018,ins0000002,ctr000001
@@ -376,12 +366,11 @@ cid0000364,1953,2,323,"Arbat, 2",Moscow,55.752414,37.599597,TCGAM. F. R-265. Op.
 cid0000365,1953,,272,"Tverskoĭ bul'var, 23",Moscow,55.762386822142076,37.602169862309225,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,newsreel,False,cin0000020,ins0000002,ctr000001
 cid0000366,1953,2,436,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.61501275297922,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,for children,False,cin0000021,ins0000002,ctr000001
 cid0000367,1953,1,701,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,TCGAM. F. R-265. Op. 1. D. 30. L. 57.,,False,cin0000022,ins0000002,ctr000001
-cid0000368,1953,3,595,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000055,ins0000002,ctr000001
-cid0000369,1953,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000056,ins0000002,ctr000001
+cid0000368,1953,3,595,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000054,ins0000002,ctr000001
+cid0000369,1953,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000055,ins0000002,ctr000001
 cid0000370,1953,1,590,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,,False,cin0000023,ins0000002,ctr000001
 cid0000371,1953,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000024,ins0000002,ctr000001
-cid0000371,1953,1,700,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000050,ins0000002,ctr000001
-cid0000372,1953,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,,False,cin0000057,ins0000002,ctr000001
+cid0000372,1953,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,,False,cin0000056,ins0000002,ctr000001
 cid0000373,1953,1,1313,Semenovskaia pl.,Moscow,55.78157,37.717869,TCGAM. F. R-265. Op. 1. D. 30. L. 58.,2 venues,False,cin0000025,ins0000002,ctr000001
 cid0000374,1953,1,708,"Ul. Karla Marksa or Novo-Basmannaia, 18",Moscow,55.766581,37.659918,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000026,ins0000002,ctr000001
 cid0000375,1953,1,428,"Karetnyĭ riad, 3",Moscow,55.77080510877408,37.60954337553044,TCGAM. F. R-265. Op. 1. D. 30. L. 59.,"seasonal cinema, open-air",False,cin0000027,ins0000002,ctr000001
@@ -408,27 +397,26 @@ cid0000395,1954,3,306,"Ul. Chernyshevskogo, 16",Moscow,55.759157,37.645708,TCGAM
 cid0000396,1954,2,732,"B. Sadovaia, 14",Moscow,55.76749154922368,37.59480267864476,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000046,ins0000002,ctr000001
 cid0000397,1954,2,271,"Arbat, 51",Moscow,55.74806146601852,37.58749976700312,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000007,ins0000002,ctr000001
 cid0000398,1954,2,426,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000008,ins0000002,ctr000001
-cid0000399,1954,1,736,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000060,ins0000002,ctr000001
-cid0000400,1954,2,652,"Ostankinskaia, 17",Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000052,ins0000002,ctr000001
+cid0000399,1954,1,736,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000059,ins0000002,ctr000001
+cid0000400,1954,2,652,"Ostankinskaia, 17",Moscow,55.83032412781143,37.61469840946716,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000051,ins0000002,ctr000001
 cid0000401,1954,1,522,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000010,ins0000002,ctr000001
 cid0000402,1954,3,207,Mariinskaia ul. 23,Moscow,55.809621,37.634416,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000011,ins0000002,ctr000001
-cid0000403,1954,1,277,Novopeschannaia ul. korp. 60,Moscow,55.79626860234792,37.512730548107776,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000061,ins0000002,ctr000001
-cid0000404,1954,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000053,ins0000002,ctr000001
+cid0000403,1954,1,277,Novopeschannaia ul. korp. 60,Moscow,55.79626860234792,37.512730548107776,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000060,ins0000002,ctr000001
+cid0000404,1954,2,584,"Taganskaia ul., 40/42",Moscow,55.739207,37.667761,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000052,ins0000002,ctr000001
 cid0000405,1954,3,228,"Piatnitskaia ul., 2",Moscow,55.745524,37.626412,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000012,ins0000002,ctr000001
-cid0000406,1954,1,228,"Chkalova, 8-22",Moscow,55.76002828365596,37.6571141119478,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000062,ins0000002,ctr000001
-cid0000407,1954,1,332,Podgorslaia nab. 1/15,Moscow,55.74813515028734,37.64490519799821,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000063,ins0000002,ctr000001
+cid0000406,1954,1,228,"Chkalova, 8-22",Moscow,55.76002828365596,37.6571141119478,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000061,ins0000002,ctr000001
+cid0000407,1954,1,332,Podgorslaia nab. 1/15,Moscow,55.74813515028734,37.64490519799821,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000062,ins0000002,ctr000001
 cid0000408,1954,3,600,Izmaĭlovo,Moscow,55.77299499453838,37.76126878218039,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000047,ins0000002,ctr000001
-cid0000409,1954,1,684,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000058,ins0000002,ctr000001
+cid0000409,1954,1,684,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000057,ins0000002,ctr000001
 cid0000410,1954,3,210,"Dmitrovskoe shosse, 3а",Moscow,55.81168032493068,37.57701676520979,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000048,ins0000002,ctr000001
 cid0000411,1954,2,455,"Spartakovskaia, 21",Moscow,55.77323586956071,37.67796359405088,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000013,ins0000002,ctr000001
 cid0000412,1954,3,325,"Pliushchikha, 11",Moscow,55.74452,37.579277,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54,,False,cin0000014,ins0000002,ctr000001
 cid0000413,1954,,151,"Okhotnyĭ riad, 6",Moscow,55.757521,37.616369,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,newsreel,False,cin0000049,ins0000002,ctr000001
 cid0000414,1954,2,440,"Ul. Gertsena, 23/9",Moscow,55.757288,37.599238,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"specialized, re-run cinema",False,cin0000015,ins0000002,ctr000001
 cid0000415,1954,1,904,"Chistye prudy, 19а",Moscow,55.761781,37.645941,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000004,ins0000002,ctr000001
-cid0000416,1954,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000054,ins0000002,ctr000001
-cid0000416,1954,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000064,ins0000002,ctr000001
+cid0000416,1954,3,185,"Mantulinnskaia, 5",Moscow,55.75519658574544,37.557861177072844,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000053,ins0000002,ctr000001
 cid0000417,1954,2,375,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000016,ins0000002,ctr000001
-cid0000418,1954,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,2 venues,False,cin0000059,ins0000002,ctr000001
+cid0000418,1954,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,2 venues,False,cin0000058,ins0000002,ctr000001
 cid0000419,1954,1,730,"Pl. Sverdlova, 2/4",Moscow,55.758448,37.621669,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,3 venues,False,cin0000001,ins0000002,ctr000001
 cid0000420,1954,2,323,"Sushchevskiĭ val, 15",Moscow,55.79283816599655,37.59796976091867,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000017,ins0000002,ctr000001
 cid0000421,1954,2,328,"Rusakovskaia, 23",Moscow,55.785928,37.675828,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000018,ins0000002,ctr000001
@@ -437,13 +425,12 @@ cid0000423,1954,2,237,"Arbat, 51",Moscow,55.74814594330477,37.587553398356306,TC
 cid0000424,1954,,259,"Tverskoĭ bul'var, 23",Moscow,55.762386822142076,37.602169862309225,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,newsreel,False,cin0000020,ins0000002,ctr000001
 cid0000425,1954,2,381,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.61501275297922,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,for children,False,cin0000021,ins0000002,ctr000001
 cid0000426,1954,1,659,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000022,ins0000002,ctr000001
-cid0000427,1954,3,595,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000055,ins0000002,ctr000001
-cid0000428,1954,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000056,ins0000002,ctr000001
+cid0000427,1954,3,595,Usachevskiĭ skver,Moscow,55.724584197535705,37.56102498972425,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000054,ins0000002,ctr000001
+cid0000428,1954,3,588,Leningradskoe shosse 244,Moscow,55.81946149407082,37.50539195493388,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000055,ins0000002,ctr000001
 cid0000429,1954,1,590,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000023,ins0000002,ctr000001
 cid0000430,1954,1,701,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000024,ins0000002,ctr000001
-cid0000430,1954,1,701,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000050,ins0000002,ctr000001
-cid0000431,1954,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000057,ins0000002,ctr000001
-cid0000432,1954,1,440,"Spartakovskaia, 21",Moscow,55.77319966176864,37.67882190091637,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000065,ins0000002,ctr000001
+cid0000431,1954,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000056,ins0000002,ctr000001
+cid0000432,1954,1,440,"Spartakovskaia, 21",Moscow,55.77319966176864,37.67882190091637,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,,False,cin0000063,ins0000002,ctr000001
 cid0000433,1954,1,1268,Semenovskaia pl.,Moscow,55.78157,37.717869,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,2 venues,False,cin0000025,ins0000002,ctr000001
 cid0000434,1954,1,708,"Ul. Karla Marksa, 18",Moscow,55.766581,37.659918,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000026,ins0000002,ctr000001
 cid0000435,1954,1,428,"Karetnyĭ riad, 3",Moscow,55.77080510877408,37.60954337553044,TCGAM. F. R-265. Op. 1. D. 36. L. 52-54.,"seasonal cinema, open-air",False,cin0000027,ins0000002,ctr000001
@@ -469,44 +456,43 @@ cid0000454,1955,2,463,B. Iakimanka,Moscow,55.731779,37.611473,TCGAM. F. R-265. O
 cid0000455,1955,3,306,"Ul. Chernyshevskogo, 16",Moscow,55.759157,37.645708,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000006,ins0000002,ctr000001
 cid0000456,1955,2,732,"B. Sadovaia, 14",Moscow,55.76749154922368,37.59480267864476,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000046,ins0000002,ctr000001
 cid0000457,1955,2,426,"Barrikadnaia, 21",Moscow,55.76064794396243,37.579330860186516,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000008,ins0000002,ctr000001
-cid0000458,1955,1,736,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000060,ins0000002,ctr000001
-cid0000459,1955,2,438,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"small venue, seasonal cinema, open-air",False,cin0000066,ins0000002,ctr000001
+cid0000458,1955,1,736,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000059,ins0000002,ctr000001
+cid0000459,1955,2,438,Territoriia VSKHV,Moscow,55.831674872324214,37.63130193594137,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"small venue, seasonal cinema, open-air",False,cin0000064,ins0000002,ctr000001
 cid0000460,1955,1,522,Petrovskiĭ park,Moscow,55.79618060753062,37.555168887144774,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000010,ins0000002,ctr000001
 cid0000461,1955,3,207,Mariinskaia ul. 23,Moscow,55.809621,37.634416,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000011,ins0000002,ctr000001
-cid0000462,1955,1,277,Novopeschannaia ul. korp. 60,Moscow,55.79626860234792,37.512730548107776,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000061,ins0000002,ctr000001
+cid0000462,1955,1,277,Novopeschannaia ul. korp. 60,Moscow,55.79626860234792,37.512730548107776,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000060,ins0000002,ctr000001
 cid0000463,1955,3,228,"Piatnitskaia ul., 2",Moscow,55.745524,37.626412,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000012,ins0000002,ctr000001
-cid0000464,1955,1,228,"Chkalova, 8-22",Moscow,55.76002828365596,37.6571141119478,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000062,ins0000002,ctr000001
-cid0000465,1955,1,332,Podgorslaia nab. 1/15,Moscow,55.74813515028734,37.64490519799821,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000063,ins0000002,ctr000001
-cid0000466,1955,1,684,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000058,ins0000002,ctr000001
+cid0000464,1955,1,228,"Chkalova, 8-22",Moscow,55.76002828365596,37.6571141119478,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000061,ins0000002,ctr000001
+cid0000465,1955,1,332,Podgorslaia nab. 1/15,Moscow,55.74813515028734,37.64490519799821,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000062,ins0000002,ctr000001
+cid0000466,1955,1,684,"Luzhnikovskaia, 27",Moscow,55.716276142721824,37.5739001982771,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000057,ins0000002,ctr000001
 cid0000467,1955,3,210,"Dmitrovskoe shosse, 3а",Moscow,55.81168032493068,37.57701676520979,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000048,ins0000002,ctr000001
 cid0000468,1955,3,325,"Pliushchikha, 11",Moscow,55.74452,37.579277,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73,,False,cin0000014,ins0000002,ctr000001
 cid0000469,1955,3,151,"Okhotnyĭ riad, 6",Moscow,55.757521,37.616369,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000049,ins0000002,ctr000001
 cid0000470,1955,2,440,"Ul. Gertsena, 23/9",Moscow,55.757288,37.599238,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"specialized, re-run cinema",False,cin0000015,ins0000002,ctr000001
 cid0000471,1955,1,904,"Chistye prudy, 19а",Moscow,55.761781,37.645941,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000004,ins0000002,ctr000001
 cid0000472,1955,2,375,Sokol'nicheskiĭ district,Moscow,55.791681890731304,37.68025349659428,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000016,ins0000002,ctr000001
-cid0000473,1955,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000059,ins0000002,ctr000001
+cid0000473,1955,3,306,Dubrovskiĭ pr. 4,Moscow,55.72449012452377,37.664848882933924,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000058,ins0000002,ctr000001
 cid0000474,1955,1,730,"Pl. Sverdlova, 2/4",Moscow,55.758448,37.621669,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,3 venues,False,cin0000001,ins0000002,ctr000001
 cid0000475,1955,2,323,"Sushchevskiĭ val, 15",Moscow,55.79283816599655,37.59796976091867,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000017,ins0000002,ctr000001
-cid0000476,1955,1,387,"Novye Cheremushki, korp. 18",Moscow,55.682472,37.571654,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000067,ins0000002,ctr000001
+cid0000476,1955,1,387,"Novye Cheremushki, korp. 18",Moscow,55.682472,37.571654,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000065,ins0000002,ctr000001
 cid0000477,1955,2,328,"Rusakovskaia, 23",Moscow,55.785928,37.675828,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000018,ins0000002,ctr000001
 cid0000478,1955,1,791,Pl. Maiakovskogo,Moscow,55.769671725991564,37.59471331716628,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000002,ins0000002,ctr000001
 cid0000479,1955,2,237,"Arbat, 51",Moscow,55.74814594330477,37.587553398356306,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,scientific films,False,cin0000019,ins0000002,ctr000001
 cid0000480,1955,3,259,"Tverskoĭ bul'var, 23",Moscow,55.762386822142076,37.602169862309225,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,newsreel,False,cin0000020,ins0000002,ctr000001
 cid0000481,1955,2,381,"Sheremet'evskaia, 19",Moscow,55.79929647698802,37.61501275297922,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,for children,False,cin0000021,ins0000002,ctr000001
 cid0000482,1955,1,659,Preobrazhenskaia pl. 7,Moscow,55.795618,37.708499,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000022,ins0000002,ctr000001
-cid0000483,1955,1,225,Frunzenskaia nab. 10b,Moscow,55.73262028126655,37.59489651255558,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000068,ins0000002,ctr000001
+cid0000483,1955,1,225,Frunzenskaia nab. 10b,Moscow,55.73262028126655,37.59489651255558,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000066,ins0000002,ctr000001
 cid0000484,1955,1,590,Grokhol'skiĭ per. 22,Moscow,55.777151,37.638043,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000023,ins0000002,ctr000001
-cid0000485,1955,2,355,"Mozhaĭskoe shosse, 31-35",Moscow,55.74514068259107,37.55038335356596,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000069,ins0000002,ctr000001
+cid0000485,1955,2,355,"Mozhaĭskoe shosse, 31-35",Moscow,55.74514068259107,37.55038335356596,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000067,ins0000002,ctr000001
 cid0000486,1955,1,701,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000024,ins0000002,ctr000001
-cid0000486,1955,1,701,Sokol'nicheskiĭ district,Moscow,55.792565,37.677725,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000050,ins0000002,ctr000001
-cid0000487,1955,1,590,Pl. Vosstaniia,Moscow,55.75901565453023,37.580598513578416,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000070,ins0000002,ctr000001
-cid0000488,1955,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000057,ins0000002,ctr000001
-cid0000489,1955,2,440,"Spartakovskaia, 21",Moscow,55.77319966176864,37.67882190091637,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000065,ins0000002,ctr000001
+cid0000487,1955,1,590,Pl. Vosstaniia,Moscow,55.75901565453023,37.580598513578416,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000068,ins0000002,ctr000001
+cid0000488,1955,1,386,"Mozhaĭskoe shosse, 47/51",Moscow,55.717432889661616,37.4076118136208,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000056,ins0000002,ctr000001
+cid0000489,1955,2,440,"Spartakovskaia, 21",Moscow,55.77319966176864,37.67882190091637,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000063,ins0000002,ctr000001
 cid0000490,1955,1,1268,Semenovskaia pl.,Moscow,55.78157,37.717869,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000025,ins0000002,ctr000001
 cid0000491,1955,1,708,"Ul. Karla Marksa, 18",Moscow,55.766581,37.659918,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000026,ins0000002,ctr000001
 cid0000492,1955,1,428,"Karetnyĭ riad, 3",Moscow,55.77080510877408,37.60954337553044,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,"seasonal cinema, open-air",False,cin0000027,ins0000002,ctr000001
 cid0000493,1955,1,642,"Nizh. Maslovka,1/2",Moscow,55.792065,37.575222,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000043,ins0000002,ctr000001
-cid0000494,1955,1,880,"Shosse Entuziastov, 174",Moscow,55.76173081200837,37.77388895420797,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000071,ins0000002,ctr000001
+cid0000494,1955,1,880,"Shosse Entuziastov, 174",Moscow,55.76173081200837,37.77388895420797,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,2 venues,False,cin0000069,ins0000002,ctr000001
 cid0000495,1955,2,400,"B. Gruzinskaia, 51",Moscow,55.771020990551925,37.582989154099984,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000028,ins0000002,ctr000001
 cid0000496,1955,3,336,"Ul. Chernyshevskogo, 55",Moscow,55.76354670647905,37.6548476160702,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,,False,cin0000029,ins0000002,ctr000001
 cid0000497,1955,,178,"Pl. Sverdlova, 1/3",Moscow,55.76037895000343,37.61916289759364,TCGAM. F. R-265. Op. 1. D. 42. L. 72-73.,stereo cinema,False,cin0000044,ins0000002,ctr000001
