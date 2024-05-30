@@ -5,7 +5,7 @@ from def_filling_tables import *
 import numpy as np
 
 country_dataframe_to_load = pd.read_csv(
-    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_страны/Country.csv',
+    'pre_processing/pre_processing_countries/Country.csv',
     encoding='utf8')
 country_dataframe_to_load = country_dataframe_to_load.replace(np.nan, None)
 
@@ -15,7 +15,7 @@ if __name__ == '__main__':
     filling_tables(hostname='localhost',
                    database='Film_Programming_Moscow_1946_1955',
                    username='postgres',
-                   password='85FibanironibI27',
+                   password='*********',
                    port_id=5432,
                    insert_script=country_insertion_command,
                    data_frame_to_upload=country_dataframe_to_load)
