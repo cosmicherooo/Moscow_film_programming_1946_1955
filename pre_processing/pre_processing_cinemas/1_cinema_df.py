@@ -60,4 +60,4 @@ cinema = cinema.rename(columns={'cinema (source)': 'cinema_name_source',
                                 'cinema (transliteration)': 'cinema_name_trans'})
 
 # сохраняем необходимый для загрузки в базу датасет
-cinema.to_csv('Cinema.csv', sep=',', index=False, encoding='utf-8')
+cinema.to_csv('pre_processing/pre_processing_cinemas/Cinema.csv', sep=',', index=False, encoding='utf-8')
