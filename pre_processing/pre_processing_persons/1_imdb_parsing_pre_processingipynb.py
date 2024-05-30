@@ -10,7 +10,7 @@ import time
 
 # загружаем датасет
 
-film_programming_df = pd.read_csv("/content/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
+film_programming_df = pd.read_csv("Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
 
 # сначала нам нужны только колонки с оригинальным названием фильма "title (original)" и "IMDB id"
 # предварительно нужно очистить неправильно конвертированные данные после выгрузки csv-файла из Google Sheets
@@ -85,4 +85,4 @@ unique_title["Duration (min)"] = None
 unique_title["Year of Production"] = None
 
 
-unique_title.to_csv('df_for_imdb_parsing.csv', sep=',', index=False, encoding='utf-8')
+unique_title.to_csv('pre_processing/pre_processing_persons/df_for_imdb_parsing.csv', sep=',', index=False, encoding='utf-8')
