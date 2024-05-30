@@ -12,7 +12,7 @@ library('janitor')
 
 #Выгружаем датасет
 
-data_cinema <- read.csv('/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv')
+data_cinema <- read.csv('Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv')
 data_cinema <- as_tibble(data_cinema)
 
 
@@ -50,4 +50,4 @@ data_cinema <- data_cinema |>
 
 
 
-write.csv(data_cinema,"screenings_split.csv", row.names = FALSE)
+write.csv(data_cinema,"pre_processing/pre_processing_screenings/screenings_split.csv", row.names = FALSE)
