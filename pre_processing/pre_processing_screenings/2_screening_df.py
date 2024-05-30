@@ -4,11 +4,11 @@ import numpy as np
 from ast import literal_eval
 
 
-screenings_pre = pd.read_csv("/content/screenings_split.csv")
-cinema = pd.read_csv("/content/Cinema.csv")
-film = pd.read_csv("/content/Film.csv")
-periodic_ref_id = pd.read_csv("/content/periodic_ref.csv")
-raw_cinema = pd.read_csv("/content/Cinemas, 1946–1955.csv")
+screenings_pre = pd.read_csv("pre_processing/pre_processing_screenings/screenings_split.csv")
+cinema = pd.read_csv("pre_processing/pre_processing_cinemas/Cinema.csv")
+film = pd.read_csv("pre_processing/pre_processing_films/Film.csv")
+periodic_ref_id = pd.read_csv("/pre_processing/pre_rpocessing_periodics/periodic_ref.csv")
+raw_cinema = pd.read_csv("Cinemas, 1946–1955.csv")
 
 # переименовываем колонки
 
@@ -97,4 +97,4 @@ screenings = screenings_pre[['screening_id',
                                   'film_id',
                                   'periodic_ref_id']]
                               
-screenings.to_csv('Screening.csv', sep=',', index=False, encoding='utf-8')
+screenings.to_csv('pre_processing/pre_processing_screenings/Screening.csv', sep=',', index=False, encoding='utf-8')
