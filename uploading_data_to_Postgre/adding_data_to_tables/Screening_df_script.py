@@ -5,7 +5,7 @@ from def_filling_tables import *
 import numpy as np
 
 screening_dataframe_to_load = pd.read_csv(
-    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_кинопоказ/Screening.csv',
+    'pre_processing/pre_processing_screenings/Screening.csv',
     encoding='utf8')
 screening_dataframe_to_load = screening_dataframe_to_load.replace(np.nan, None)
 screening_dataframe_to_load["day_of_screening"] = pd.to_datetime(screening_dataframe_to_load["day_of_screening"],
