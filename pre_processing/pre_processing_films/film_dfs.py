@@ -5,7 +5,7 @@ from ast import literal_eval
 
 # преодобрабатываем, что у нас пойдет в таблицу Film
 
-df_after_parsing = pd.read_csv("/content/df_after_parsing.csv")
+df_after_parsing = pd.read_csv("pre_processing/pre_processing_persons/df_after_parsing.csv")
 
 df_after_parsing = df_after_parsing.replace(np.nan, None)
 
@@ -37,4 +37,4 @@ df_to_merge_films = df_to_merge_films.replace(0, None)
 
 
 # сохраняем в csv-файл
-df_to_merge_films.to_csv('Film.csv', index=False)
+df_to_merge_films.to_csv('pre_processing/pre_processing_films/Film.csv', index=False)
