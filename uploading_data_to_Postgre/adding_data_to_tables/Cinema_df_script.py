@@ -5,7 +5,7 @@ from def_filling_tables import *
 import numpy as np
 
 cinema_dataframe_to_load = pd.read_csv(
-    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_кинотеатры/Cinema.csv',
+    'pre_processing/pre_processing_cinemas/Cinema.csv',
     encoding='utf8')
 cinema_dataframe_to_load = cinema_dataframe_to_load.replace(np.nan, None)
 
