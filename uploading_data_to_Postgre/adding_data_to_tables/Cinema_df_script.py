@@ -15,7 +15,7 @@ if __name__ == '__main__':
     filling_tables(hostname='localhost',
                    database='Film_Programming_Moscow_1946_1955',
                    username='postgres',
-                   password='**********',
+                   password=str(input()),
                    port_id=5432,
                    insert_script=cinema_insertion_command,
                    data_frame_to_upload=cinema_dataframe_to_load)
