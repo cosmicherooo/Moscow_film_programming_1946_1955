@@ -5,8 +5,8 @@ from ast import literal_eval
 
 # создаем таблицу со странами и соединительную таблицу между странами и фильмами
 # преобразуем изначальный датасет, где уже были указания на место произвоства фильмов
-film_programming_df = pd.read_csv("/content/Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
-df_to_merge_films = pd.read_csv("/content/Film.csv")
+film_programming_df = pd.read_csv("Dataset_Moscow_1946-1955_UPD_Film Programming, 1946–1955.csv")
+df_to_merge_films = pd.read_csv("pre_processing/pre_processing_cinemas/Film.csv")
 get_countries = film_programming_df[['title (original)', 'country of origin']]
 # удаляем дубликаты
 get_countries = get_countries.drop_duplicates()
@@ -65,4 +65,4 @@ country_to_film = pd.merge(country_df, get_countries[["ISO_3166_1_alpha_2", 'fil
 # соединительная таблица готова!
 country_to_film = country_to_film[['film_id', 'country_id']]
 
-country_to_film.to_csv('country_to_film.csv', index=False)
+country_to_film.to_csv('pre_processing/pre_processing_countries/country_to_film.csv', index=False)
