@@ -1,5 +1,3 @@
-
-
 !pip install parsel
 import os
 from parsel import Selector
@@ -13,7 +11,7 @@ import numpy as np
 
 from MovieInfoIMDb import MovieInfoIMDb
 
-unique_title = pd.read_csv("/content/df_for_imdb_parsing.csv")
+unique_title = pd.read_csv("pre_processing/pre_processing_persons/df_for_imdb_parsing.csv")
 
 unique_title = unique_title.replace(np.nan, None)
 
@@ -54,4 +52,4 @@ for i in range(0, unique_title.shape[0]):
   iterator += 1
   print(iterator)
 
-unique_title.to_csv('df_after_parsing.csv', index=False)
+unique_title.to_csv('pre_processing/pre_processing_persons/df_after_parsing.csv', index=False)
