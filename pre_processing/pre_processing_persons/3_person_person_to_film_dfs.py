@@ -4,7 +4,7 @@ import math
 import numpy as np
 from ast import literal_eval
 
-df_after_parsing = pd.read_csv("/content/df_after_parsing.csv")
+df_after_parsing = pd.read_csv("pre_processing/pre_processing_persons/df_after_parsing.csv")
 
 df_after_parsing = df_after_parsing.replace(np.nan, None)
 
@@ -125,5 +125,5 @@ persons_collapsed_merge_df = persons_collapsed_merge_df[['person_id', 'film_id',
 unique_persons = unique_persons.reset_index(drop=True)
 unique_persons = unique_persons[['person_id', 'person_name', 'IMDb_ID']]
 
-unique_persons.to_csv('Person.csv', index=False)
-persons_collapsed_merge_df.to_csv('person_fo_film.csv', index=False)
+unique_persons.to_csv('pre_processing/pre_processing_persons/Person.csv', index=False)
+persons_collapsed_merge_df.to_csv('pre_processing/pre_processing_persons/person_fo_film.csv', index=False)
