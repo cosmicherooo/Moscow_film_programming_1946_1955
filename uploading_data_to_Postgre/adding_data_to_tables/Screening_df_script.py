@@ -4,18 +4,10 @@ from creating_execution_commands import *
 from def_filling_tables import *
 import numpy as np
 
-screening_dataframe_to_load_1 = pd.read_csv(
-    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_кинопоказ/screenings_1.csv',
+screening_dataframe_to_load = pd.read_csv(
+    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_кинопоказ/Screening.csv',
     encoding='utf8')
 
-screening_dataframe_to_load_2 = pd.read_csv(
-    '/Users/karnaukhovivan/Desktop/ВКР_!!!текст_текст/что будет на гите/предобработка/предобработка_кинопоказ/screenings_2.csv',
-    encoding='utf8')
-
-screening_dataframe_to_load = pd.concat([screening_dataframe_to_load_1,
-                                         screening_dataframe_to_load_2], axis=0).reset_index()
-
-screening_dataframe_to_load = screening_dataframe_to_load.drop(['index'], axis=1)
 screening_dataframe_to_load = screening_dataframe_to_load.replace(np.nan, None)
 screening_dataframe_to_load["day_of_screening"] = pd.to_datetime(screening_dataframe_to_load["day_of_screening"],
                                                                  format='%Y-%m-%d').dt.date
