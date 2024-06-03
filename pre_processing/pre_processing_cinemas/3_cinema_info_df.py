@@ -69,7 +69,8 @@ cinemas_initial_df = cinemas_initial_df.rename({'cinema (source)': 'cinema_name_
                                                 'cinema (transliteration)': 'cinema_name_trans',
                                                 'affiliation': 'institution_name',
                                                 'country': 'ISO_3166_1_alpha_2',
-                                                'address': 'address_cinema'}, axis=1)
+                                                'address': 'address_cinema',
+                                                'Coef': 'coef'}, axis=1)
 
 # объединяем с другими таблицами, чтобы присвоить внешние ключи
 
@@ -80,11 +81,13 @@ cinemas_initial_df = pd.merge(cinemas_initial_df, cinema[['cinema_id', "cinema_n
 # сбрасываем ненужные колонки
 cinemas_initial_df = cinemas_initial_df.drop(columns=['ISO_3166_1_alpha_2', 'institution_name', 'cinema_name_source', 'cinema_name_trans'])
 
+
 # расставляем колонки в верном порядке
 cinema_info = cinemas_initial_df[['cinema_info_id',
                                   'year',
                                   'run',
                                   'seats',
+                                  'coef',
                                   'address_cinema',
                                   'city',
                                   'lat',
@@ -96,5 +99,7 @@ cinema_info = cinemas_initial_df[['cinema_info_id',
                                   'institution_id',
                                   'country_id']]
 
+cinema_info['coef'] = cinema_info['coef'].str.replace(',', '.').astype(float)
+                             
 # сохраняем в виде файла формата csv с названием "Cinema_info"
 cinema_info.to_csv('pre_processing/pre_processing_cinemas/Cinema_info.csv', sep=',', index=False, encoding='utf-8')
