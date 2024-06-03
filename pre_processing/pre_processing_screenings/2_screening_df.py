@@ -99,5 +99,12 @@ screenings = screenings_pre[['screening_id',
                                   'cinema_id',
                                   'film_id',
                                   'periodic_ref_id']]
+
+
+screenings_1 = screenings.iloc[:120000]
+screenings_2 = screenings.iloc[120000:]
+
+screenings_1.to_csv('pre_processing/pre_processing_screenings/screenings_1.csv', sep=',', index=False, encoding='utf-8')
+screenings_2.to_csv('pre_processing/pre_processing_screenings/screenings_2.csv', sep=',', index=False, encoding='utf-8')
                               
-screenings.to_csv('pre_processing/pre_processing_screenings/Screening.csv', sep=',', index=False, encoding='utf-8')
+
