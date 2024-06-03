@@ -3,7 +3,9 @@ import math
 import numpy as np
 from ast import literal_eval
 
-screenings_pre = pd.read_csv("pre_processing/pre_processing_screenings/screenings_split.csv")
+screenings_pre_1 = pd.read_csv("/content/screenings_split_1.csv")
+screenings_pre_2 = pd.read_csv("/content/screenings_split_2.csv")
+screenings_pre = pd.concat([screenings_pre_1, screenings_pre_2], axis = 0).reset_index()
 
 cinema = pd.read_csv("pre_processing/pre_processing_cinemas/Cinema.csv")
 film = pd.read_csv("pre_processing/pre_processing_films/Film.csv")
@@ -84,6 +86,16 @@ def id_create_screen(value):
 
 screenings_pre['screening_id'] = screenings_pre['screening_id'].map(id_create_screen)
 
+dict_days = {1.0: "Mon", 
+             2.0: "Tue", 
+             3.0: "Wed", 
+             4.0: "Thu", 
+             5.0: "Fri", 
+             6.0: "Sat", 
+             7.0: "Sun", }
+
+
+screenings_pre = screenings_pre.replace({"weekday": dict_days})
 
 
 # располагаем колонки в верной последовательности
@@ -99,7 +111,12 @@ screenings = screenings_pre[['screening_id',
 
 
 
-screenings.to_csv('pre_processing/pre_processing_screenings/screenings.csv', sep=',', index=False, encoding='utf-8')
+screenings_1 = screenings.iloc[:120000]
+screenings_2 = screenings.iloc[120000:]
+
+
+screenings_1.to_csv('screenings_1.csv', sep=',', index=False, encoding='utf-8')
+screenings_2.to_csv('screenings_2.csv', sep=',', index=False, encoding='utf-8')
 
                               
 
