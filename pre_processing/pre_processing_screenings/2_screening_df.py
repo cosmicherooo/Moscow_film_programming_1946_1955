@@ -3,10 +3,7 @@ import math
 import numpy as np
 from ast import literal_eval
 
-screenings_pre_1 = pd.read_csv("pre_processing/pre_processing_screenings/screenings_split_1.csv")
-screenings_pre_2 = pd.read_csv("pre_processing/pre_processing_screenings/screenings_split_2.csv")
-screenings_pre = pd.concat([screenings_pre_1, screenings_pre_2], axis = 0).reset_index()
-
+screenings_pre = pd.read_csv("pre_processing/pre_processing_screenings/screenings_split.csv")
 
 cinema = pd.read_csv("pre_processing/pre_processing_cinemas/Cinema.csv")
 film = pd.read_csv("pre_processing/pre_processing_films/Film.csv")
@@ -101,10 +98,8 @@ screenings = screenings_pre[['screening_id',
                                   'periodic_ref_id']]
 
 
-screenings_1 = screenings.iloc[:120000]
-screenings_2 = screenings.iloc[120000:]
 
-screenings_1.to_csv('pre_processing/pre_processing_screenings/screenings_1.csv', sep=',', index=False, encoding='utf-8')
-screenings_2.to_csv('pre_processing/pre_processing_screenings/screenings_2.csv', sep=',', index=False, encoding='utf-8')
+screenings.to_csv('pre_processing/pre_processing_screenings/screenings.csv', sep=',', index=False, encoding='utf-8')
+
                               
 
