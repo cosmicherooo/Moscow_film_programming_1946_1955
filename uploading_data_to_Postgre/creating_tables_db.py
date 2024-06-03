@@ -70,6 +70,7 @@ variables_in_tables = [
       ('year', 'integer NOT NULL'),
       ('run', 'integer'),
       ('seats', 'integer'),
+      ('coef', 'float'),
       ('address_cinema', 'varchar(50)'),
       ('city', 'varchar(50) NOT NULL'),
       ('lat', 'float'),
