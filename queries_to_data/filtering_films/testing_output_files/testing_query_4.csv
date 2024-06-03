@@ -1,0 +1,104 @@
+film_id,film_title,year,film_duration,film_country_of_origin,Actor,Director,Writer
+flm0000053,Слон и веревочка,1946,46,Soviet Union,"Faina Ranevskaya,Lyusya Kolomeyets,David Markish,Villi Mednikov,Vladimir Volchik,Rostislav Plyatt,Vladimir Kolchin,Mariya Vinogradova,Boris Terentyev,Elena Chaykovskaya,Tamara Sezenevskaya,Natalya Zashchipina,Vitya Pavlov,Irina Murzayeva",Ilya Frez,Agniya Barto
+flm0000064,Парад Победы,1945,19,Soviet Union,"Georgi Malenkov,Konstantin Rokossovsky,Kliment Voroshilov,Mikhail Kalinin,Semyon Budyonny,Joseph Stalin,Leonid Khmara,Vyacheslav Molotov,Lavrenti Beria,Georgi Zhukov",Nikolay Solovyev,V. Agatov
+flm0000107,Закон великой любви,1945,48,Soviet Union,Bruce Belfrage,Boris Dolin,"S. Skytev,J. Murray-Smith"
+flm0000111,В песках Средней Азии,1943,48,Soviet Union,,Aleksandr Zguridi,Aleksandr Zguridi
+flm0000119,Судебный процесс в Смоленске,1946,13,Soviet Union,,Esfir Shub,Esfir Shub
+flm0000178,Юбилей,1944,40,Soviet Union,"Anastasiya Zueva,Viktor Stanitsyn,Sergei Tsenin,Mikhail Mukhin,Lyudmila Semyonova,Vladimir Gribkov,Vasili Toporkov,Olga Androvskaya,Sergei Blinnikov",Vladimir Petrov,"Anton Chekhov,Vladimir Petrov"
+flm0000179,Хирургия,1939,37,Soviet Union,"Valentina Telegina,Ivan Moskvin,Igor Ilyinsky,Vasiliy Merkurev",Yan Frid,"Yan Frid,Anton Chekhov"
+flm0000233,По щучьему велению,1938,60,Soviet Union,"Georgiy Millyar,Grigoriy Sharayev,Tatyana Strukova,Mariya Kravchunovskaya,Andrey Fayt,Ivan Moskvin,Vladimir Lepko,Ye. Terentyeva,Lidiya Ryumina,Aleksandr Zhukov,Lev Potyomkin,Pyotr Savin",Aleksandr Rou,"Ye. Tarakhova,Oleg Leonidov,Vsevolod Kochetov"
+flm0000250,Фронтовой кинооператор Сушинский,1946,20,Soviet Union,"Vladimir Sushchinskiy,Leonid Khmara",Maria Slavinskaya,Z. Ginzburg
+flm0000307,Суд народов,1946,58,Soviet Union,"Hermann Göring,Wilhelm Frick,Henri Donnedieu de Vabres,Joseph Goebbels,David Maxwell Fyfe,Adolf Hitler,Karl Dönitz,Heinrich Himmler,Alfred Jodl,Hans Frank,Ilja Ehrenburg,Boris Efimov,Rudolf Hess,Robert Jackson,Vsevolod Ivanov,Robert Falco,Francis Biddle,Adolf Heusinger","Roman Karmen,Elizaveta Svilova",Boris Gorbatov
+flm0000317,Клятва Тимура,1942,53,Soviet Union,"Pyotr Galadzhev,Liviy Shchipachyov,Sergey Komarov,Aleksandr Putko,Yuri Solntsev,Marina Kovalyova,Vladimir Balashov,Yekaterina Derevshchikova,Vladimir Pimenov,Boris Yasen,Nikolai Annenkov",Lev Kuleshov,Arkadiy Gaydar
+flm0000329,Руслан и Людмила,1938,50,Soviet Union,"V. Savitsky,Nikolai Chaplygin,Sergey Stolyarov,Nikolai Bubnov,Lyudmila Glazova",Ivan Nikitchenko,"Samuil Bolotin,Alexander Pushkin"
+flm0000339,Советская Эстония,1946,53,Soviet Union,Leonid Khmara,Lidiya Stepanova,"Lidiya Stepanova,Paul-Eerik Rummo"
+flm0000343,Разгром немецких войск под Москвой,1942,55,Soviet Union,"N. Dubravin,Edward G. Robinson,Joseph Stalin","Ilya Kopalin,Leonid Varlamov","Pyotr Pavlenko,Albert Maltz,Elliot Paul"
+flm0000353,Битва за нашу советскую Украину,1943,56,Soviet Union,"Oleksiy Fyodorov,Hermann Göring,Konstantin Rokossovsky,Nikita Khrushchev,Sydir Kovpak,Joseph Stalin,Leonid Khmara,Adolf Hitler,Semyon Rudnev,Evgeniy Paton","Aleksandr Dovzhenko,Yuliya Solntseva,Yakov Avdeyenko","Aleksandr Dovzhenko,Yuliya Solntseva"
+flm0000355,Возрождение Сталинграда,1944,45,Soviet Union,Leonid Khmara,Iosif Poselski,Boris Agapov
+flm0000362,Советская Латвия,1947,52,Soviet Union,Leonid Khmara,"Sergei Gurov,Leonid Kristi",Boris Agapov
+flm0000391,Эксперименты по оживлению организмов,1940,20,Soviet Union,"S.S. Bryukhonenko,Walter B. Cannon,J.B.S. Haldane",D.I. Yashin,S.S. Bryukhonenko
+flm0000423,Подкидыш,1927,60,Soviet Union,"John Bowers,Hobart Bosworth,Paul Ellis,Anne Schaefer,Mary Louise Miller,Corinne Griffith",James Flood,"May Edginton,Paul Bern"
+flm0000442,Пропавшая грамота,1945,43,Soviet Union,"Vasili Kachalov,Mikhail Yanshin,Boris Livanov,Sergey Martinson,Leonid Pirogov","Valentina Brumberg,Zinaida Brumberg","Valentina Brumberg,Zinaida Brumberg,Nikolay Gogol"
+flm0000444,Гайчи,1938,60,Soviet Union,"Viktor Tretyakov,Erdni Mandzhiyev,J. Zai,Yu-Fey Bustrem,Georgiy Subbotin,Boris Tolgayev",Vladimir Shnejderov,Valerian Moskalevich
+flm0000449,Сказка о царе Салтане,1943,35,Soviet Union,"Faina Ranevskaya,Mariya Babanova,Dmitriy Orlov,Mikhail Zharov,Klavdiya Koreneva,Faina Shevchenko,Leonid Pirogov","Valentina Brumberg,Zinaida Brumberg","Valentina Brumberg,Zinaida Brumberg,Alexander Pushkin"
+flm0000459,Конек-Горбунок,1947,57,Soviet Union,"Nonna Yastrebova,Georgiy Millyar,Alik Kachanov,Anatoliy Kubatskiy,Valentina Sperantova,Georgiy Vitsin,Galina Novozhilova,Leonid Pirogov,Georgi Chernovolenko","Viktor Gromov,Aleksandra Snezhko-Blotskaya,Ivan Ivanov-Vano","Pyotr Ershov,Nikolai Rozhkov,Evgeniy Pomeshchikov"
+flm0000468,Песенка радости,1946,21,Soviet Union,"Tatyana Strukova,Viktoriya Ivanova,Yuriy Khrzhanovskiy,Yuliya Yulskaya,Lidiya Knyazeva",Mstislav Pashchenko,Mstislav Pashchenko
+flm0000473,Сокровища Ценского ущелья,1941,60,Soviet Union,"Kirile Macharadze,D. Bregvadze,David Alavidze,K. Gegenava,Giga Bregvadze,Kokhta Karalashvili,Aleksandra Toidze,Tito Baramidze,A. Tsitlidze",Zakaria Berishvili,Akaki Beliashvili
+flm0000496,Москва - столица СССР,1947,58,Soviet Union,Leonid Khmara,"Lidiya Stepanova,Fyodor Kiselev","Ilya Bachelis,Lidiya Stepanova,Fyodor Kiselev"
+flm0000507,Теремок,1945,25,Soviet Union,"Fyodor Kurikhin,Anatoliy Rzhanov,Vladimir Lepko,Klavdiya Koreneva,Yuliya Yulskaya,Tamara Belyayeva,Vladimir Popov","Viktor Gromov,Pyotr Nosov,Olga Khodatayeva",Samuil Marshak
+flm0000525,По ту сторону Аракса,1947,55,Soviet Union,,Esfir Shub,Esfir Shub
+flm0000531,Боксеры,1941,60,Soviet Union,"Konstantin Mikhaylov,Daniil Sagal,Konstantin Gradopolov,Vitali Doronin,Nikolay Volkov,Nikolai Komissarov,Mikhail Sidorkin,Ariadna Tur,Robert Ross,Emmanuil Geller,Viktor Proklov,Nikolay Ivakin,Ivan Bobrov,Konstantin Sorokin,Yefim Kopelyan",Vladimir Gonchukov,Pyotr Kapitsa
+flm0000555,Бой под соколом,1942,52,Soviet Union,"Aleksey Tarshin,Tolya Gorodulin,Kolya Leonov,Borya Afanasyev,Mikhail Belousov,Viktor Boika,Petya Grokhovskiy",Aleksandr Razumnyj,Sergey Mikhalkov
+flm0000656,Тихая поляна,1946,10,Soviet Union,Vadim Sinyavsky,"Boris Dyozhkin,Gennadiy Filippov",Aleksey Sazonov
+flm0000659,Медведь,1938,43,Soviet Union,"Mariya Shlenskaya,Mikhail Zharov,Olga Androvskaya,Ivan Pelttser,Konstantin Sorokin",Isidor Annensky,"Isidor Annensky,Anton Chekhov"
+flm0000683,День воздушного флота СССР,1949,48,Soviet Union,A. Levitan,Vladimir Boykov,Boris Agapov
+flm0000800,Сокровища ценского ущелья,1941,60,Soviet Union,"Kirile Macharadze,D. Bregvadze,David Alavidze,K. Gegenava,Giga Bregvadze,Kokhta Karalashvili,Aleksandra Toidze,Tito Baramidze,A. Tsitlidze",Zakaria Berishvili,Akaki Beliashvili
+flm0000805,Федя Зайцев,1948,20,Soviet Union,"Lidiya Korolyova,Mikhail Yanshin,Valentina Sperantova,Erast Garin,Sergey Martinson,Vladimir Gotovtsev","Valentina Brumberg,Zinaida Brumberg","Nikolay Erdman,Mikhail Volpin"
+flm0000824,Чемпион,1948,10,Soviet Union,"Vadim Sinyavsky,Sergey Martinson",Aleksandr Vasilyevich Ivanov,"Isidor Vinokurov,Mikhail Volpin"
+flm0000826,Карандаш на льду,1948,22,Soviet Union,"Svetlana Nemolyaeva,Lyudmila Tselikovskaya,Evgeniy Leonov,Mikhail Rumyantsev,Erast Garin",Vladimir Nemolyayev,Valentina Ladygina
+flm0000843,"Screen Snapshots Series 18, No. 8",1939,10,United States,"Ann Sheridan,Rita Hayworth,Melvyn Douglas,Sonja Henie,Norma Shearer,Don Ameche,Joan Crawford,Eleanor Powell,Ralph Staub,Phyllis Thompson,Irene Dare,Mickey Rooney,James Stewart,Cesar Romero,Al Jolson,Franklin Pangborn,Tyrone Power,Dick Purcell",Ralph Staub,Ralph Staub
+flm0000990,Кукушка и скворец,1949,10,Soviet Union,,"Vladimir Polkovnikov,Leonid Amalrik",Sergey Mikhalkov
+flm0001101,В степи,1951,44,Soviet Union,"Georgiy Millyar,Mark Bernes,Yuriy Sarantsev,Valentina Telegina,Andrey Tarasov,Anatoli Kerbi,Boris Yeliseyev,Yuri Kononov,Vsevolod Sanaev,Natalya Zashchipina,Pavel Volkov,Vladimir Feoktistov","A. Ulyantsev,Boris Buneev","Pyotr Pavlenko,Aleksandr Galich"
+flm0001105,Сказка о рыбаке и рыбке,1950,32,Soviet Union,"Georgiy Millyar,Anastasiya Zueva,Mariya Babanova,Vitali Ovanesov,Boris Chirkov,Zhanna Balashova,Vladimir Gribkov,Irina Malikova,Aleksandr Kotov,Yulyen Balmusov",Mikhail Tsekhanovskiy,"Mikhail Volpin,Alexander Pushkin"
+flm0001139,На первенство мира по шахматам,1951,10,Soviet Union,"Sergey Bogomolov,Kira Zvorykina,Salo Flohr,Gideon Ståhlberg,David Bronshteyn,Robert Wade,Ludek Pachman,Mikhail Botvinnik,Karel Opocenský",Eldar Ryazanov,I. Prok
+flm0001184,Таежная сказка,1951,10,Soviet Union,"Tatyana Kanaeva,Yu. Parnes,Zhanna Balashova,Irina Malikova,Valentina Sperantova,Aleksandr Kotov,Tatyana Barysheva,Boris Tokarev,Yulyen Balmusov","Evgeniy Raykovskiy,Olga Khodatayeva",Oleg Leonidov
+flm0001303,Ночь перед рождеством,1951,49,Soviet Union,"Nikolai Gritsenko,Liliya Gritsenko,Mikhail Yanshin,Aleksey Gribov,Vladimir Gribkov,Aleksei Zhiltsov,Vera Maretskaya","Valentina Brumberg,Zinaida Brumberg","Valentina Brumberg,Zinaida Brumberg,Nikolay Gogol"
+flm0001437,Аленький цветочек,1952,42,Soviet Union,"Mariya Babanova,Nikolay Bogolyubov,Nina Krachkovskaya,Vladimir Gribkov,Olga Chepurova,Mikhail Astangov",Lev Atamanov,"Sergey Aksakov,Georgiy Grebner"
+flm0001481,Олень и волк,1950,10,Soviet Union,"Vladimir Gribkov,Anatoliy Rzhanov",Dmitriy Babichenko,August Jakobson
+flm0001482,Охотничье ружье,1948,10,Soviet Union,,"Roman Davydov,Panteleymon Sazonov",Sergey Mikhalkov
+flm0001500,Каштанка,1952,30,Soviet Union,"Boris Chirkov,Yuriy Khrzhanovskiy,Aleksey Gribov,Vladimir Gribkov,Vladimir Feoktistov",Mikhail Tsekhanovskiy,"Mikhail Papava,Anton Chekhov,Boris Brodskiy"
+flm0001511,Слон и муравей,1948,11,Soviet Union,"Vladimir Lepko,Yuliya Yulskaya,Sergey Martinson,Lidiya Knyazeva,Leonid Pirogov","Boris Dyozhkin,Gennadiy Filippov","Roman Fatuev,Gamzat Tsadass"
+flm0001512,Когда зажигаются елки,1950,20,Soviet Union,"Vladimir Volodin,Viktoriya Ivanova,Yuriy Khrzhanovskiy,Yuliya Yulskaya,Rostislav Plyatt,Tatyana Barysheva,Leonid Pirogov",Mstislav Pashchenko,"Sergey Mikhalkov,Mikhail Volpin,Vladimir Suteev"
+flm0001556,Твои книжки,1953,21,Soviet Union,"Georgiy Vereyskiy,Mariya Prilezhayeva,Samuil Marshak,Boris Degtyaryov,Aleksey Musatov,Valentina Oseyeva,Inessa Ross,Sergey Mikhalkov,Ivan Kozhedub,Agniya Barto,Nikolay Zhukov,Lev Kassil","Zoya Fomina,Eldar Ryazanov",Lev Kassil
+flm0001580,Кто первый,1950,10,Soviet Union,Vadim Sinyavsky,"Boris Dyozhkin,Gennadiy Filippov",Klimenti Mints
+flm0001581,Первый урок,1948,10,Soviet Union,,Lamis Bredis,Vladimir Nemolyayev
+flm0001599,Чук и Гек,1953,47,Soviet Union,"Vera Vasileva,Dmitri Pavlov,Mikhail Troyanovskiy,Ekaterina Savinova,Yura Chuchunov,Nikolai Komissarov,Andrei Chilikin",Ivan Lukinsky,"Viktor Shklovskiy,Arkadiy Gaydar"
+flm0001630,Друзья-товарищи,1951,20,Soviet Union,"Nadezhda Ukolova,Lyudmila Pirogova,Anatoli Kerbi,Kolya Ustinov,Vladimir Feoktistov",Viktor Gromov,Lev Kassil
+flm0001636,Цветик-семицветик,1948,20,Soviet Union,"Natalya Zashchipina,Tatyana Barysheva,Boris Omekhin","Viktor Gromov,Mikhail Tsekhanovskiy","Mikhail Volpin,Valentin Kataev"
+flm0001638,Валидуб,1952,20,Soviet Union,"Boris Andreyev,Grigoriy Shpigel,Irina Gosheva,Mikhail Troyanovskiy",Dmitriy Babichenko,Lyudmila Vepritskaya
+flm0001641,Желтый аист,1950,11,Soviet Union,"Nikolay Aleksandrovich,Vladimir Vladislavskiy,Dmitriy Kara-Dmitriev",Lev Atamanov,"Mikhail Papava,Samuil Marshak,Boris Brodskiy"
+flm0001642,Полкан и шавка,1948,9,Soviet Union,"Boris Andreyev,Sergey Martinson",Aleksandr Vasilyevich Ivanov,Sergey Mikhalkov
+flm0001645,Лесные путешественники,1951,20,Soviet Union,"Vladimir Ratomskiy,Viktoriya Ivanova,Yuriy Khrzhanovskiy,Grigori Belov,Yuliya Yulskaya,Margarita Doktorova,Aleksandra Panova,Tatyana Barysheva",Mstislav Pashchenko,"Georgiy Skrebitskiy,Vera Chaplina"
+flm0001654,Павлиний хвост,1946,10,Soviet Union,"Yuliya Yulskaya,Leonid Pirogov,Georgiy Vitsin,Vladimir Blagoobrazov","Vladimir Polkovnikov,Leonid Amalrik","Vladimir Polkovnikov,Leonid Amalrik,Korney Ivanovich Chukovskiy"
+flm0001655,Сердце храбреца,1951,19,Soviet Union,"Nikolay Gorlov,Nina Zorskaya,Varvara Myasnikova,Anatoliy Shchukin,Yuriy Lyubimov,Leonid Pirogov","Boris Dyozhkin,Gennadiy Filippov","Dmitriy Nagishkin,Oleg Leonidov"
+flm0001656,Крашеный лис,1953,11,Soviet Union,"Osip Abdulov,Agar Vlasova,Yuriy Khrzhanovskiy,Rostislav Plyatt,Aleksandr Shchagin,Sergey Martinson",Aleksandr Vasilyevich Ivanov,"Ivan Franko,Nikolay Abramov,Boris Brodskiy"
+flm0001757,Беззаконие,1954,14,Soviet Union,"Olga Aroseva,Sergey Kulagin,Tamara Nosova,Mikhail Yanshin,Lidiya Sukharevskaya,Vsevolod Sanaev",Konstantin Yudin,"Anton Chekhov,Konstantin Yudin"
+flm0001769,Повесть о нефтяниках Каспия,1954,52,Soviet Union,Leonid Khmara,Roman Karmen,"Imran Qasimov,Roman Karmen,Iosif Osipov"
+flm0001778,Полет на луну,1953,30,Soviet Union,"Evgeniya Mores,Liliya Gritsenko,Mikhail Yanshin,Valentina Sperantova,Vladimir Gribkov,Vladimir Gotovtsev,Galina Novozhilova,Vera Bendina","Valentina Brumberg,Zinaida Brumberg,Mikhail Yanshin","Nikolay Erdman,Vladimir Morozov"
+flm0001855,Братья Лю,1953,27,Soviet Union,"Georgiy Millyar,Valentina Sperantova,Erast Garin",Dmitriy Babichenko,Nikolay Erdman
+flm0001892,Храбрый пак,1953,20,Soviet Union,,"Vladimir Degtyaryov,Evgeniy Raykovskiy",Tamara Karavaeva
+flm0001957,На даче,1954,17,Soviet Union,,Grigori Lomidze,"Grigori Lomidze,Anton Chekhov"
+flm0001961,Шведская спичка,1954,52,Soviet Union,"Sergei Troitsky,Yuri Leonidov,Nikolai Gritsenko,Andrei Popov,Vladimir Pokrovskiy,Tamara Nosova,Mikhail Yanshin,Aleksey Gribov,Marina Kuznetsova,Mikhail Nazvanov,Inna Fyodorova,Kseniya Tarasova,Nikolay Kurochkin,Vladimir Kolchin,Aleksandr Lebedev,Georgiy Georgiu,Nikolay Polenkov,Afanasi Kochetkov",Konstantin Yudin,"Anton Chekhov,Nikolay Erdman"
+flm0001977,Одесса,1935,23,France,Isaak Babel,Jean Lods,"Isaak Babel,Jean Lods"
+flm0001977,Одесса,1935,23,Soviet Union,Isaak Babel,Jean Lods,"Isaak Babel,Jean Lods"
+flm0001987,Народные мстители,1943,55,Soviet Union,Leonid Khmara,Vasiliy Belyayev,Vasiliy Belyayev
+flm0002146,Сармико,1952,20,Soviet Union,"Nadezhda Ukolova,Sergey Stolyarov,Mikhail Troyanovskiy,Vsevolod Sanaev,Vladimir Feoktistov","Evgeniy Raykovskiy,Olga Khodatayeva",Kseniya Shneyder
+flm0002211,Весенние мелодии,1946,9,Soviet Union,,Dmitriy Babichenko,Dmitriy Babichenko
+flm0002226,Карандаш и клякса,1954,10,Soviet Union,,Evgeniy Migunov,Evgeniy Migunov
+flm0002253,Старый двор,1941,20,Soviet Union,"Pyotr Galadzhev,Yu. Gospodinova,Sergey Komarov,Anatoliy Nakhimov,A. Lavrukhin,Lyudmila Grudina,Iona Biy-Brodskiy,Lyudmila Tisse,Rina Zelyonaya,Konstantin Nemolyayev,Mikhail Rumyantsev,Yelena Maksimova,Vladimir Nemolyayev,Emmanuil Geller,Aleksandr Timontayev",Vladimir Nemolyayev,"Valentina Ladygina,Vladimir Nemolyayev"
+flm0002271,Надежда,1955,46,Soviet Union,"Nikolay Dovzhenko,Vladimir Ratomskiy,Yuriy Perov,Konstantin Bartashevich,Svetlana Zhiltsova,Stanislav Fesyunov,K. Gomberg,P. Tsingankova,Zinaida Kirienko,Mariya Yarotskaya,Kira Muratova,Rimma Shorokhova,Valentina Khmara,Yuri Dedovich,Yuriy Martynov,Vladimir Lebedev,Oleg Khromenkov,Valentina Pugachyova",Sergey Gerasimov,Sergey Gerasimov
+flm0002272,Crin blanc: Le cheval sauvage,1953,40,France,"Denys Colomb de Daunant,Alain Colomb Daunant,Laurent Roche,Alain Emery,Francois Perie,Frank Silvera,Jean-Pierre Grenier,Charles Fouhetty,Pierre Moureaux-Nery,Pascal Lamorisse,Peter Strauss,Pierre Bestieux,Charles Guillaume,Clan-Clan",Albert Lamorisse,"Denys Colomb de Daunant,Albert Lamorisse,James Agee"
+flm0002276,Остров Сахалин,1955,45,Soviet Union,"Leonid Khmara,Yevgeniya Ten","Vasily Katanyan,Eldar Ryazanov","Aleksandr Maryamov,Mark Troyanovsky,Iosif Osipov"
+flm0002302,Ревизоры поневоле,1955,22,Soviet Union,"Mikhail Pugovkin,Mikhail Zharov,Olga Aroseva,Vladimir Lepko,Vladimir Uralskiy,Mikhail Nazvanov,Boris Novikov,Rimma Shorokhova,Ivan Lyubeznov",Yuliya Solntseva,Sergey Mikhalkov
+flm0002330,Pricházejí z tmy,1954,60,Czechoslovakia,"Vilém Besser,Rudolf Hrusínský,Jarmila Kurandová,Eduard Cupák,Josef Kemr,Miroslav Dolezal,Alena Kautska,Helena Kruzíková,Josef Mixa,Marta Májová,Stefan Bulejko,Dana Medrická,Václava Austová,Josef Najman,Jarek Lisata,Adolf Král,Gustav Hilmar,Karel Pavlík",Václav Gajer,Miloslav Fábera
+flm0002350,Злодейка с наклейкой,1954,10,Soviet Union,,"Boris Stepantsev,Vsevolod Shcherbakov",Sergey Mikhalkov
+flm0002376,Необыкновенный матч,1955,21,Soviet Union,"Viktoriya Ivanova,Yuriy Khrzhanovskiy,Yuliya Yulskaya,Boris Andreyev,Margarita Korabelnikova","Boris Dyozhkin,Mstislav Pashchenko",Mstislav Pashchenko
+flm0002377,Секрет красоты,1955,16,Soviet Union,"Georgiy Millyar,Aleksey Petrochenko,Klavdiya Blokhina,Nikolay Smorchkov,Vera Altayskaya,Oleg Anofriev,Tamara Nosova,Nadezhda Kovalyova,Pyotr Repnin,Pyotr Konstantinov,Lyubov Studneva",Vasili Ordynsky,Yakov Segel
+flm0002412,Стрела улетает в сказку,1954,29,Soviet Union,"Georgiy Millyar,Yuriy Khrzhanovskiy,Irina Pototskaya,Yuliya Yulskaya,Rostislav Plyatt,Margarita Korabelnikova,Georgiy Vitsin,Mariya Vinogradova,Feliks Ivanov",Leonid Amalrik,Vladimir Suteev
+flm0002470,Трубка и медведь,1955,10,Soviet Union,"Sergei Troitsky,Vladimir Volodin,Serafim Anikeyev,Larisa Bukhartseva,Yuriy Khrzhanovskiy,Rostislav Plyatt",Aleksandr Vasilyevich Ivanov,Sergey Mikhalkov
+flm0002498,Naissance du cinéma,1950,38,France,,Roger Leenhardt,"Roger Leenhardt,Georges Sadoul"
+flm0002525,Niezwykla podróz,1955,10,Poland,,Teresa Badzian,"Janina Porazinska,Teresa Badzian"
+flm0000815,Südseeparadies,1940,12,West Germany,Stephen Findeisen,Werner Buhre,
+flm0000828,Кристаллы,1948,20,Soviet Union,Leonid Khmara,Yakov Kaplunov,
+flm0001336,Спортивный праздник молодежи,1951,48,East Germany,"Angel Kolyev,Ferenc Klics,Khomonai,Ernst Schmidt,Vladimir Volkov,Vladimir Kazantsev,Janusz Sidlo,Olli Partanen,Vladimir Sukharev,Adam Bonyhadi,Eduard Adamczyk,Nikolai Shorin,Georgy Fyodorov,Vladimir Brazhnik,Jirí Lansky,Wilhelm Pieck,Levan Sanadze,Ödön Földessy","Andrew Thorndike,Dmitriy Vasilev",
+flm0001336,Спортивный праздник молодежи,1951,48,Soviet Union,"Angel Kolyev,Ferenc Klics,Khomonai,Ernst Schmidt,Vladimir Volkov,Vladimir Kazantsev,Janusz Sidlo,Olli Partanen,Vladimir Sukharev,Adam Bonyhadi,Eduard Adamczyk,Nikolai Shorin,Georgy Fyodorov,Vladimir Brazhnik,Jirí Lansky,Wilhelm Pieck,Levan Sanadze,Ödön Földessy","Andrew Thorndike,Dmitriy Vasilev",
+flm0001809,Советские гимнасты,1953,18,Soviet Union,"Nina Bocharova,Boris Shahlin,Albert Azaryan,Zinaida Ruleva,Larisa Diri,Nikolai Popov,Valentin Muratov,Tamara Manina,Medea Djugeli,Henrietta Konovalova,Viktor Chukarin,Charles Toney,Grant Shaginyan,Nikolai Mironov,Georgi Rogulski,Paulina Danilova,Galina Sharabidze,Maria Gorohovskaya",Vladimir Boykov,
+flm0002300,Мастера индийского искусства,1955,40,Soviet Union,"Ravi Shankar,Aram Khachaturyan,Chandrashekhar Vaidya,Reinhold Glière",Sergei Gurov,
+flm0000052,Всесоюзный парад физкультурников 1945 г.,1945,43,Soviet Union,,Vasiliy Belyayev,
+flm0000069,Битва за Севастополь,1944,43,Soviet Union,,V.N. Beliaev,
+flm0000278,Молодость нашей страны,1946,51,Soviet Union,,"Irina Venzher,Sergei Yutkevich,Yakov Poselsky",
+flm0000381,В глубинах моря,1939,49,Soviet Union,,Aleksandr Zguridi,
+flm0000629,Первое мая 1948 года,1948,1,Soviet Union,,Sergei Gurov,
+flm0001268,В аллеях парка,1952,7,Soviet Union,,A. Stepanova,
+flm0001958,Чехов,1954,60,Soviet Union,,A. Leoniv,
+flm0002381,На Дунае,1940,60,Soviet Union,,"Iosif Poselski,Ilya Kopalin",
